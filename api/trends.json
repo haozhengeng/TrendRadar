@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T18:04:26.003624+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2025-10-16T19:02:11.086345+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -109,6 +109,30 @@
           "time_info": "[03时03分 ~ 07时04分]"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普威胁更换2028年奥运举办地",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26pos%3D25%26band_rank%3D24%26realpos%3D24%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1760554928%26pre_seqid%3D17605549282570055323",
           "source": "微博",
@@ -124,6 +148,17 @@
           "time_info": "[03时03分 ~ 08时42分]"
         },
         {
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
           "url": "https://www.cls.cn/detail/2171140",
           "source": "财联社热门",
@@ -134,17 +169,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时02分 ~ 18时04分]"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 18时04分]"
         },
         {
           "title": "汽车巨头将部分生产线从加拿大迁至美国，加省长矛头对准特朗普",
@@ -167,6 +191,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普政府批准16亿美元贷款担保 支持电网升级",
+          "url": "https://flash.jin10.com/detail/20251016184111812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
@@ -291,18 +326,6 @@
           "time_info": "[16时03分 ~ 17时04分]"
         },
         {
-          "title": "特朗普回应发军饷：有位绅士愿意付",
-          "url": "https://www.toutiao.com/trending/7560868714460823595/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 18时04分]"
-        },
-        {
           "title": "加拿大工业部长Melanie Joly威胁称：如果斯泰兰蒂斯集团Stellantis迫于美国总统特朗普的压力就将安大略省工厂搬迁到美国伊利诺伊州，加方将起诉该公司。",
           "url": "https://wallstreetcn.com/livenews/2988378",
           "source": "华尔街见闻-快讯",
@@ -377,6 +400,41 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时04分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普称对西班牙很不爽",
+          "url": "https://www.toutiao.com/trending/7560714140441509924/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 19时02分]"
+        },
+        {
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
           "url": "https://wallstreetcn.com/livenews/2988341",
           "source": "华尔街见闻-快讯",
@@ -388,6 +446,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时14分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普下月或亲赴美最高法院“督战”",
+          "url": "https://www.toutiao.com/trending/7561326265605898276/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时04分 ~ 19时02分]"
         },
         {
           "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
@@ -486,17 +556,6 @@
           "time_info": "[01时14分 ~ 02时05分]"
         },
         {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时04分 ~ 18时04分]"
-        },
-        {
           "title": "特朗普挪用五角大楼资金发军饷",
           "url": "https://news.ifeng.com/c/8nUnwVIdU3i",
           "source": "凤凰网",
@@ -563,15 +622,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "特朗普称对西班牙很不爽",
-          "url": "https://www.toutiao.com/trending/7560714140441509924/",
-          "source": "今日头条",
+          "title": "克里姆林宫：俄罗斯可以以更低的价格向那些特朗普正试图说服不购买俄罗斯石油的国家提供高质量的石油。",
+          "url": "https://flash.jin10.com/detail/20251016181333778800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普：我们不喜欢的民主党计划将被永久终止。",
@@ -583,17 +642,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
-          "url": "https://wallstreetcn.com/articles/3757263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
         },
         {
           "title": "据Politico：美国总统特朗普本周拨款65亿美元用于发放军人薪酬。",
@@ -616,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-16）",
+          "url": "https://flash.jin10.com/detail/20251016181128488800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "报道：三星执行会长等韩企高管可能在海湖庄园与特朗普会面",
@@ -946,23 +1005,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "特朗普下月或亲赴美最高法院“督战”",
-          "url": "https://www.toutiao.com/trending/7561326265605898276/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时04分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -996,11 +1044,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时19分 ~ 18时04分]"
+          "appearance_count": 12,
+          "time_info": "[10时19分 ~ 19时02分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -1063,7 +1112,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
         },
@@ -1103,6 +1152,17 @@
           "time_info": "[11时31分 ~ 12时02分]"
         },
         {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "下周金价会重演2015年行情吗",
           "url": "https://www.toutiao.com/trending/7561615409112157705/",
           "source": "今日头条",
@@ -1113,6 +1173,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时02分]"
+        },
+        {
+          "title": "专家：金价到5000美元将比预期快",
+          "url": "https://www.douyin.com/hot/2272129",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "金价会掉头向下吗",
+          "url": "https://www.toutiao.com/trending/7561745310884564523/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
@@ -1184,7 +1266,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -1294,6 +1376,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "美国合众银行三季度每股收益1.22美元，预估1.12美元。 三季度净利息收入为42.5亿美元，预估41.7亿美元。 美国合众银行美股盘前涨2%。",
+          "url": "https://wallstreetcn.com/livenews/2988942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美联航三季度运营收入152亿美元，分析师预期152.8亿美元。 三季度可获得座位里程数874.2亿，分析师预期865.1亿。 三季度乘客里程收入737.7亿，分析师预期737.1亿。 三季度乘客营收138.2亿美元，分析师预期139.1亿美元。 三季度资本开支14.6亿美元。 预计四季度调整后EPS为3-3.50美元，分析师预期2.82美元。 美联航（UAL）美股盘后涨0.53%，涨幅随后扩大至3%。",
           "url": "https://wallstreetcn.com/livenews/2988400",
           "source": "华尔街见闻-快讯",
@@ -1395,11 +1488,12 @@
             8,
             7,
             11,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时04分]"
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
