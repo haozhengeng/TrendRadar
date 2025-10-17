@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-17T07:02:47.419500+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2025-10-17T08:41:45.653035+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 91,
       "titles": [
-        {
-          "title": "中方回应特朗普让中国停买俄石油",
-          "url": "https://www.toutiao.com/trending/7561368482139373610/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
         {
           "title": "特朗普中东行有何成果",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
@@ -27,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时41分]"
+        },
+        {
+          "title": "中方回应特朗普让中国停买俄石油",
+          "url": "https://www.toutiao.com/trending/7561368482139373610/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时41分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -65,6 +66,17 @@
           "time_info": "[00时04分 ~ 04时04分]"
         },
         {
+          "title": "美十余州检察长就太阳能项目资金被撤起诉特朗普政府",
+          "url": "https://wallstreetcn.com/livenews/2989281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "印度回应特朗普称该国承诺停购俄油",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%81%9C%E8%B4%AD%E4%BF%84%E6%B2%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D26%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25AF%25A5%25E5%259B%25BD%25E6%2589%25BF%25E8%25AF%25BA%25E5%2581%259C%25E8%25B4%25AD%25E4%25BF%2584%25E6%25B2%25B9%2523%26dgr%3D0%26cate%3D5001%26pos%3D27%26flag%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D26%26c_type%3D31%26display_time%3D1760641387%26pre_seqid%3D17606413870220066626",
           "source": "微博",
@@ -78,15 +90,59 @@
           "time_info": "[03时04分 ~ 07时02分]"
         },
         {
+          "title": "特朗普：可能会在未来两周内与普京会面",
+          "url": "https://news.ifeng.com/c/8nVhO0vuMg8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "美国总统特朗普宣称，与德国默沙东（Merck KGaA）围绕（在美国市场）降低生育药物价格达成一份协议，该公司将获得关税宽限。",
           "url": "https://wallstreetcn.com/livenews/2989235",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称将与普京在布达佩斯会面",
+          "url": "https://www.toutiao.com/trending/7561955734129217050/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "中方回应特朗普让中国停买俄石油",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "普京三板斧，轻松搞定特朗普",
+          "url": "https://news.ifeng.com/c/8nW9pmO1Xsq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "美国总统特朗普：如果哈马斯继续在加沙杀害民众——这本不是一笔交易——我们将别无选择，只能进入并消灭他们。",
@@ -232,6 +288,18 @@
           "time_info": "[06时03分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
+          "url": "https://www.cls.cn/detail/2172088",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时41分]"
+        },
+        {
           "title": "特朗普：鲁比奥、拉夫罗夫即将会面，尽快确定时间和地点。",
           "url": "https://flash.jin10.com/detail/20251017043446309800",
           "source": "金十数据",
@@ -351,6 +419,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "涉嫌不当处理机密信息，曾任特朗普助理的博尔顿遭起诉",
+          "url": "https://news.ifeng.com/c/8nVk7NHvbKc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "俄罗斯股市在普京与特朗普通话后上涨。",
           "url": "https://flash.jin10.com/detail/20251017012858942800",
           "source": "金十数据",
@@ -382,6 +461,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普与普京约定在匈牙利会面",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%BA%A6%E5%AE%9A%E5%9C%A8%E5%8C%88%E7%89%99%E5%88%A9%E4%BC%9A%E9%9D%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D8%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%2599%25AE%25E4%25BA%25AC%25E7%25BA%25A6%25E5%25AE%259A%25E5%259C%25A8%25E5%258C%2588%25E7%2589%2599%25E5%2588%25A9%25E4%25BC%259A%25E9%259D%25A2%2523%26pos%3D9%26cate%3D5001%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D8%26flag%3D1%26display_time%3D1760661606%26pre_seqid%3D176066160622300561126",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "特朗普与普京将在布达佩斯举行会晤 美军3架B52飞赴委内瑞拉近海 | 环球市场",
+          "url": "https://www.cls.cn/detail/2172120",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "特朗普：可能在匈牙利与普京会面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E8%83%BD%E5%9C%A8%E5%8C%88%E7%89%99%E5%88%A9%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "美国总统特朗普：与普京对话正在进行中，而且是一场漫长的对话，我将在会议结束时汇报内容，普京也将如此。",
@@ -417,15 +529,15 @@
           "time_info": "03时04分"
         },
         {
-          "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
-          "url": "https://www.cls.cn/detail/2172088",
-          "source": "财联社热门",
+          "title": "美十余州检察长就太阳能项目资金被撤起诉特朗普政府",
+          "url": "https://flash.jin10.com/detail/20251017080917665800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时41分"
         },
         {
           "title": "克里姆林宫官员：普京与特朗普的通话是应俄罗斯方面主动提议进行的。",
@@ -459,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "普京正告特朗普战斧不会改变俄乌战局",
+          "url": "https://www.toutiao.com/trending/7561713661941907502/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行通话。",
@@ -503,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "白宫新闻秘书莱维特：俄罗斯总统普京承诺将与美国总统特朗普坐下来会谈。",
@@ -780,6 +914,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "标普：特朗普造成1.2万亿美元的关税成本，消费者承担大头",
+          "url": "https://flash.jin10.com/detail/20251017074723066800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "美国总统特朗普：我刚刚结束了与俄罗斯总统普京的电话会谈。",
           "url": "https://flash.jin10.com/detail/20251017011233812800",
           "source": "金十数据",
@@ -789,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "特朗普称已达成降低牛肉价格协议",
+          "url": "https://www.toutiao.com/trending/7561949325484507178/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "白宫新闻秘书莱维特：普京祝贺特朗普达成中东协议。",
@@ -813,6 +969,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "特朗普：普京说不喜欢我卖给乌导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%88%91%E5%8D%96%E7%BB%99%E4%B9%8C%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普将很快发布有关与普京通话的消息。",
           "url": "https://flash.jin10.com/detail/20251017011215126800",
           "source": "金十数据",
@@ -830,9 +997,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称减肥药价格将大幅下降 相关药企股价下挫",
+          "url": "https://flash.jin10.com/detail/20251017073017705800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "欧洲央行管委Olli Rehn：欧元区通胀风险是两个方向的（上行+下行）。 必须对通胀下行风险保持警觉。 通胀已经在我们的目标附近保持稳定。 欧洲央行在利率行动方面是完全自由的（不像美联储那样会频繁地遭到美国总统特朗普的干扰）。（彭博电视）",
@@ -860,7 +1038,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -872,8 +1050,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 08时41分]"
+        },
+        {
+          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2172108",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时41分]"
         },
         {
           "title": "美股费城银行指数跌3.6%，地区银行指数暴跌6.5%。 标普500指数初步收跌0.7%，金融板块跌2.7%，能源板块跌1.1%，科技板块微涨0.1%。 纳斯达克100指数初步收跌0.4%，成分股中，VRSK跌6.1%，Datadog跌5.4%，MSTR跌4.1%，特许通讯跌3.6%，PayPal跌2.7%，AMD跌1.8%，新思科技则涨超0.9%，阿斯麦控股涨1%，英伟达涨1%，KDP涨2.8%，安森美涨5%，美光科技涨5.5%。 Visa、Travelers Companies Inc.、沃尔玛、摩根大通、耐克初步收跌超2%，领跌道指成分股，宝洁、卡特彼勒、Salesforce则涨超1%，和英伟达领跑。",
@@ -893,7 +1083,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -930,17 +1120,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 01时05分]"
-        },
-        {
-          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2172108",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）热门中概股行情一览（美股盘中）",
@@ -1036,6 +1215,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "美股三大股指齐收跌 金龙指数跌近1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%BD%90%E6%94%B6%E8%B7%8C+%E9%87%91%E9%BE%99%E6%8C%87%E6%95%B0%E8%B7%8C%E8%BF%911%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "诺和诺德美股盘后下跌3.5%，礼来公司下跌1.7%，特朗普称减肥药物价格将下调。",
           "url": "https://flash.jin10.com/detail/20251017045101882800",
           "source": "金十数据",
@@ -1072,7 +1262,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。",
@@ -1100,6 +1290,30 @@
           "time_info": "[00时04分 ~ 05时04分]"
         },
         {
+          "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
+          "url": "https://www.cls.cn/detail/2172128",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "专家：金价到5000美元将比预期快",
+          "url": "https://www.douyin.com/hot/2272129",
+          "source": "抖音",
+          "ranks": [
+            30,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时03分 ~ 08时41分]"
+        },
+        {
           "title": "投资者关注美联储降息前景：两年期美债收益率跌约8个基点，逼近3.41%，日元走强，美股下跌，金价回落",
           "url": "https://wallstreetcn.com/livenews/2989128",
           "source": "华尔街见闻-快讯",
@@ -1113,16 +1327,15 @@
           "time_info": "[01时05分 ~ 03时04分]"
         },
         {
-          "title": "专家：金价到5000美元将比预期快",
-          "url": "https://www.douyin.com/hot/2272129",
-          "source": "抖音",
+          "title": "经济数据延迟放大市场不确定性 金价暴涨",
+          "url": "https://flash.jin10.com/detail/20251017080938157800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            26
+            10
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 05时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。 彭博数据显示，现货黄金价格涨约1%，报4379.93美元。",
@@ -1131,9 +1344,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "今年金价已经创45次新高",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E9%87%91%E4%BB%B7%E5%B7%B2%E7%BB%8F%E5%88%9B45%E6%AC%A1%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         },
         {
           "title": "金价年内涨幅超50% 专家提醒",
@@ -1150,7 +1374,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -1165,13 +1389,24 @@
           "time_info": "[02时02分 ~ 06时03分]"
         },
         {
+          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，”恐慌指数“涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
           "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
           "url": "https://wallstreetcn.com/livenews/2989216",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -1220,6 +1455,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 将推出成人版 ChatGPT？它为什么要这么做？可能带来哪些风险？",
+          "url": "https://www.zhihu.com/question/1961867297695166783",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     }
