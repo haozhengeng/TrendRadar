@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T22:03:32.047909+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-10-19T23:04:11.237150+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时39分 ~ 22时03分]"
+          "appearance_count": 19,
+          "time_info": "[11时39分 ~ 23时04分]"
         },
         {
           "title": "美乌总统会晤，特朗普数次语气强硬",
@@ -91,6 +91,17 @@
           "time_info": "[08时46分 ~ 20时17分]"
         },
         {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时03分 ~ 23时04分]"
+        },
+        {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
           "url": "https://www.cls.cn/detail/2173372",
           "source": "财联社热门",
@@ -144,17 +155,6 @@
           "time_info": "[00时04分 ~ 11时40分]"
         },
         {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时03分 ~ 22时03分]"
-        },
-        {
           "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
           "url": "https://wallstreetcn.com/livenews/2990101",
           "source": "华尔街见闻-快讯",
@@ -200,11 +200,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时04分 ~ 22时03分]"
+          "appearance_count": 32,
+          "time_info": "[00时04分 ~ 23时04分]"
         },
         {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
@@ -287,6 +288,18 @@
           "time_info": "[00时04分 ~ 11时40分]"
         },
         {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时03分 ~ 23时04分]"
+        },
+        {
           "title": "美国多地爆发反特朗普集会",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D27%26cate%3D5001%26lcate%3D5001%26pos%3D27%26stream_entry_id%3D31%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E7%2588%2586%25E5%258F%2591%25E5%258F%258D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%259B%2586%25E4%25BC%259A%2523%26dgr%3D0%26band_rank%3D27%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760853563%26pre_seqid%3D17608535638940357858034",
           "source": "微博",
@@ -351,6 +364,17 @@
           "time_info": "[15时03分 ~ 18时04分]"
         },
         {
+          "title": "特朗普访韩期间，有机会与金正恩会面吗？",
+          "url": "https://news.ifeng.com/c/8naSLmM8R1V",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
           "title": "特朗普建议俄乌以现在战线为准停火",
           "url": "https://www.toutiao.com/trending/7562417606767853604/",
           "source": "今日头条",
@@ -375,6 +399,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时39分 ~ 13时04分]"
+        },
+        {
+          "title": "“特朗普政府悄悄放松多项关税政策，为在最高法院败诉做准备”",
+          "url": "https://news.ifeng.com/c/8naNOGdcTXc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
+        },
+        {
+          "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
+          "url": "https://flash.jin10.com/detail/20251019224817731800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
@@ -407,15 +453,16 @@
           "time_info": "[11时40分 ~ 15时04分]"
         },
         {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时03分 ~ 22时03分]"
+          "time_info": "[20时16分 ~ 23时04分]"
         },
         {
           "title": "美媒：普京在与特朗普的通话中“要求乌克兰交出关键领土”",
@@ -433,6 +480,17 @@
           "time_info": "[10时32分 ~ 14时02分]"
         },
         {
+          "title": "特朗普：如果我们此前没有摧毁伊朗的核武库，我们就不会达成加沙协议。",
+          "url": "https://flash.jin10.com/detail/20251019224545078800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "特朗普发AI视频挑衅抗议者",
           "url": "https://flash.jin10.com/detail/20251019112407399800",
           "source": "金十数据",
@@ -446,6 +504,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时15分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普：不确定是否会介入纽约市长选举。不愿支持民主党候选人。",
+          "url": "https://flash.jin10.com/detail/20251019224504413800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：（谈及国民警卫队部署）下一步将开赴旧金山。",
+          "url": "https://flash.jin10.com/detail/20251019224453988800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
+          "url": "https://wallstreetcn.com/livenews/2990196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
@@ -482,11 +573,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时04分]"
         },
         {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
@@ -494,11 +586,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时17分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时17分 ~ 23时04分]"
         },
         {
           "title": "特朗普为何对华释放缓和信号",
@@ -512,17 +605,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时03分 ~ 18时04分]"
-        },
-        {
-          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时16分 ~ 22时03分]"
         },
         {
           "title": "特朗普极限施压为何总在中国面前熄火",
@@ -593,6 +675,138 @@
           "time_info": "18时04分"
         },
         {
+          "title": "特朗普：沙特已表示愿意加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20251019223930260800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：不确定是否会介入纽约市长选举。 （就纽约市长选举表态）不愿支持民主党候选人。",
+          "url": "https://wallstreetcn.com/livenews/2990194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：希望看到沙特加入亚伯拉罕协议。",
+          "url": "https://flash.jin10.com/detail/20251019223912646800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普谈美国政府援助企业并获取股权：这是”美国方式”。",
+          "url": "https://wallstreetcn.com/livenews/2990193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：亚伯拉罕协议将很快扩大。",
+          "url": "https://flash.jin10.com/detail/20251019223903443800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：如果哈马斯不做他们应该做的事，我们会替他们做。",
+          "url": "https://flash.jin10.com/detail/20251019223853350800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：对哈马斯何时解除武装没有强硬“时间线”。",
+          "url": "https://flash.jin10.com/detail/20251019223834796800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：普京将从乌克兰拿走一些东西，他赢得了一些财产。",
+          "url": "https://flash.jin10.com/detail/20251019223745676800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：我们不能把所有武器都交给乌克兰。",
+          "url": "https://flash.jin10.com/detail/20251019223722426800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：正在考虑是否对乌克兰提供战斧导弹。",
+          "url": "https://flash.jin10.com/detail/20251019223712494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：我们将成立一个和平委员会。",
+          "url": "https://flash.jin10.com/detail/20251019223620589800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
+          "title": "特朗普：如果有必要，我们将解除哈马斯的武装。无论是（由）美国还是其代理人。美国不会派地面部队。",
+          "url": "https://flash.jin10.com/detail/20251019223546572800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "韩4大集团CEO同赴特朗普“鸿门宴”",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A94%E5%A4%A7%E9%9B%86%E5%9B%A2CEO%E5%90%8C%E8%B5%B4%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E9%B8%BF%E9%97%A8%E5%AE%B4%E2%80%9D",
           "source": "百度热搜",
@@ -641,6 +855,18 @@
           "time_info": "[08时46分 ~ 15时04分]"
         },
         {
+          "title": "金价涨了，印度人节日买金习惯变了",
+          "url": "https://news.ifeng.com/c/8na31dSR83g",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时03分 ~ 23时04分]"
+        },
+        {
           "title": "中美通话如何影响黄金价格",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
@@ -653,18 +879,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时04分 ~ 10时32分]"
-        },
-        {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时03分 ~ 22时03分]"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -709,7 +923,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -748,6 +962,19 @@
           "time_info": "[00时04分 ~ 10时32分]"
         },
         {
+          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
+          "url": "https://wallstreetcn.com/articles/3757446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时04分 ~ 23时04分]"
+        },
+        {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
           "url": "https://www.cls.cn/detail/2173450",
           "source": "财联社热门",
@@ -758,19 +985,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时04分 ~ 11时40分]"
-        },
-        {
-          "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
-          "url": "https://wallstreetcn.com/articles/3757446",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时04分 ~ 22时03分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -830,11 +1044,12 @@
           "url": "https://wallstreetcn.com/livenews/2990182",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时04分]"
         },
         {
           "title": "伊朗检察官：一名被指控为以色列从事间谍活动的人员已于周六被处决。",
@@ -853,11 +1068,12 @@
           "url": "https://flash.jin10.com/detail/20251019211835771800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 23时04分]"
         }
       ]
     },
