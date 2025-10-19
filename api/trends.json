@@ -1,12 +1,45 @@
 {
-  "generated_at": "2025-10-19T07:02:44.034681+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2025-10-19T08:47:18.248439+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
+          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
+        },
+        {
+          "title": "美乌总统会晤，特朗普数次语气强硬",
+          "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
+        },
+        {
+          "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://news.ifeng.com/c/8nYKfvcps5g",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
+        },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
           "url": "https://news.ifeng.com/c/8nYLhA743YV",
@@ -19,59 +52,29 @@
           "time_info": "[00时04分 ~ 07时02分]"
         },
         {
-          "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
-          "url": "https://news.ifeng.com/c/8nXp14yHS6o",
-          "source": "凤凰网",
+          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
+          "url": "https://www.cls.cn/detail/2173372",
+          "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "美乌总统会晤，特朗普数次语气强硬",
-          "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
-          "url": "https://news.ifeng.com/c/8nYKfvcps5g",
-          "source": "凤凰网",
-          "ranks": [
+            7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
           "url": "https://flash.jin10.com/detail/20251018223232047800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
+            2,
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "time_info": "[00时04分 ~ 08时47分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -81,15 +84,29 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
         },
         {
-          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
-          "url": "https://www.cls.cn/detail/2173372",
-          "source": "财联社热门",
+          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
+          "url": "https://wallstreetcn.com/livenews/2990084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
+            4,
+            11,
+            13,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时47分]"
+        },
+        {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -105,20 +122,6 @@
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
-          "url": "https://wallstreetcn.com/livenews/2990084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时04分 ~ 07时02分]"
         },
         {
@@ -145,15 +148,15 @@
           "time_info": "[00时04分 ~ 07时02分]"
         },
         {
-          "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
-          "url": "https://wallstreetcn.com/livenews/2990101",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
+          "url": "https://news.ifeng.com/c/8nZRSwQk7HS",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
@@ -169,17 +172,30 @@
           "time_info": "[00时04分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称美军摧毁一艘“载有毒品”的大型潜艇",
+          "url": "https://wallstreetcn.com/livenews/2990101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 08时47分]"
+        },
+        {
           "title": "泽连斯基承认：特朗普未明确拒绝向乌提供“战斧”导弹",
           "url": "https://wallstreetcn.com/livenews/2990095",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             8,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 08时47分]"
         },
         {
           "title": "特朗普和泽连斯基的会谈气氛很紧张",
@@ -207,6 +223,50 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
+        },
+        {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            29,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时47分]"
+        },
+        {
+          "title": "金价为何下跌",
+          "url": "https://www.toutiao.com/trending/7562708312681090570/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -219,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -228,11 +288,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 08时47分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -242,39 +303,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时02分]"
-        },
-        {
-          "title": "中美通话如何影响黄金价格",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时02分]"
+          "time_info": "[00时04分 ~ 08时47分]"
         }
       ]
     },
@@ -289,22 +319,41 @@
           "ranks": [
             1,
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 08时47分]"
         },
         {
           "title": "伊朗副外长：协议规定的期限和施加的限制到期后，伊朗将摆脱安理会实施的制裁。",
           "url": "https://flash.jin10.com/detail/20251018200946209800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 08时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek 本地部署能做到阅读几百万字文本吗？",
+          "url": "https://www.zhihu.com/question/11521332735",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
         }
       ]
     },
