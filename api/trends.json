@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T19:02:51.591069+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2025-10-22T20:19:19.998794+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 104,
       "titles": [
         {
           "title": "特朗普称将于明年初访华，外交部回应",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时24分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时24分 ~ 20时19分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -115,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时24分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时24分 ~ 20时19分]"
         },
         {
           "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
@@ -131,8 +131,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时04分 ~ 19时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时04分 ~ 20时19分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -167,17 +167,6 @@
           "time_info": "[00时04分 ~ 08时43分]"
         },
         {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时05分]"
-        },
-        {
           "title": "特朗普称中美元首未必会见面，外交部回应",
           "url": "https://news.ifeng.com/c/8nezfC6pmYF",
           "source": "凤凰网",
@@ -185,8 +174,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普称大陆不想进攻台湾 国台办回应",
+          "url": "https://www.toutiao.com/trending/7563604843634544147/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时04分 ~ 20时19分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -197,8 +201,30 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 20时19分]"
+        },
+        {
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.douyin.com/hot/2278821",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时04分 ~ 19时02分]"
+          "time_info": "[00时04分 ~ 03时05分]"
         },
         {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
@@ -214,8 +240,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时24分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时24分 ~ 20时19分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -244,31 +270,6 @@
           "time_info": "[00时04分 ~ 08时43分]"
         },
         {
-          "title": "特朗普称大陆不想进攻台湾 国台办回应",
-          "url": "https://www.toutiao.com/trending/7563604843634544147/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时04分 ~ 19时02分]"
-        },
-        {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.douyin.com/hot/2278821",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 19时02分]"
-        },
-        {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
           "url": "https://www.cls.cn/detail/2176974",
           "source": "财联社热门",
@@ -278,8 +279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时04分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 20时19分]"
         },
         {
           "title": "特朗普对俄乌和谈态度再变",
@@ -296,6 +297,18 @@
           "time_info": "[10时24分 ~ 14时04分]"
         },
         {
+          "title": "特朗普向特朗普政府索赔",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时19分]"
+        },
+        {
           "title": "美学者：特朗普对华贸易政策反复变化让人厌倦",
           "url": "https://news.ifeng.com/c/8neTm4xLGKx",
           "source": "凤凰网",
@@ -305,17 +318,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时43分 ~ 10时25分]"
-        },
-        {
-          "title": "特朗普向特朗普政府索赔",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%B4%A2%E8%B5%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 19时02分]"
         },
         {
           "title": "特朗普向特朗普政府索赔2.3亿美元",
@@ -374,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
+          "url": "https://news.ifeng.com/c/8nfCFTiNYVe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "美国总统特朗普：我们可以开始用关税来偿还债务。",
@@ -453,6 +466,20 @@
           "time_info": "10时25分"
         },
         {
+          "title": "中方回应特朗普称中美将达成协议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%B0%86%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            7,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 20时19分]"
+        },
+        {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
           "url": "https://wallstreetcn.com/livenews/2991351",
           "source": "华尔街见闻-快讯",
@@ -475,19 +502,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 02时03分]"
-        },
-        {
-          "title": "中方回应特朗普称中美将达成协议",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E7%BE%8E%E5%B0%86%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：与莫迪谈到了贸易问题。",
@@ -815,6 +829,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国高级官员：美国总统特朗普将于周四在白宫会见北约秘书长。",
           "url": "https://flash.jin10.com/detail/20251022030402927800",
           "source": "金十数据",
@@ -958,6 +983,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "希拉里痛批特朗普斥巨资改造白宫",
+          "url": "https://www.toutiao.com/trending/7563059002437779465/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国总统特朗普：舒默和激进左翼分子挟持政府。",
           "url": "https://flash.jin10.com/detail/20251022005531621800",
           "source": "金十数据",
@@ -1041,7 +1077,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1176,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "特朗普称莫迪保证会少买俄油",
+          "url": "https://www.toutiao.com/trending/7563613487504146442/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普特使库什纳：以色列与联合国在加沙人道主义援助问题上保持着密切协调。",
@@ -1323,6 +1370,19 @@
           "time_info": "18时03分"
         },
         {
+          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
+          "url": "https://wallstreetcn.com/articles/3757632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 20时19分]"
+        },
+        {
           "title": "国际金价一度暴跌6%",
           "url": "https://www.toutiao.com/trending/7563812032793808394/",
           "source": "今日头条",
@@ -1335,41 +1395,17 @@
           "time_info": "[08时43分 ~ 10时25分]"
         },
         {
-          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
-          "url": "https://wallstreetcn.com/articles/3757632",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 19时02分]"
-        },
-        {
           "title": "今日各大金店金价",
           "url": "https://www.toutiao.com/trending/7563938982417927721/",
           "source": "今日头条",
           "ranks": [
             6,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 19时02分]"
-        },
-        {
-          "title": "黄金价格大跳水 金价到顶了吗",
-          "url": "https://www.toutiao.com/trending/7563965781701037609/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 20时19分]"
         },
         {
           "title": "金价这轮会跌多久",
@@ -1381,8 +1417,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时01分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时01分 ~ 20时19分]"
+        },
+        {
+          "title": "黄金价格大跳水 金价到顶了吗",
+          "url": "https://www.toutiao.com/trending/7563965781701037609/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时19分]"
         },
         {
           "title": "国际金价大跌原因",
@@ -1480,7 +1529,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -1490,8 +1539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时43分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时43分 ~ 20时19分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -1600,6 +1649,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "苹果(AAPL.O)美股盘前跌约0.7%。",
+          "url": "https://flash.jin10.com/detail/20251022200006334800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "金十图示：2025年10月21日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251022003020254800",
           "source": "金十数据",
@@ -1633,6 +1693,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "Beyond Meat美股盘前一度大涨100%，过去三个交易日已累涨约600%。",
+          "url": "https://wallstreetcn.com/livenews/2991904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "奈飞(NFLX.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20251022040513760800",
           "source": "金十数据",
@@ -1661,7 +1732,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1704,8 +1775,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时24分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时24分 ~ 20时19分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -2078,7 +2149,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国副总统万斯：伊朗不能拥有核武器。",
@@ -2112,6 +2183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "伊朗外交部长：只要美国继续提出“不合理要求”，德黑兰就不会重返与美方的谈判桌。",
+          "url": "https://flash.jin10.com/detail/20251022192835903800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     },
