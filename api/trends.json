@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T10:26:16.898743+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-10-26T11:37:17.784613+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：愿在亚洲行期间会见金正恩",
@@ -64,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 10时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 11时37分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -99,11 +99,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 11时37分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -115,8 +116,33 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 10时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 11时37分]"
+        },
+        {
+          "title": "美国总统特朗普启程访问亚洲三国",
+          "url": "https://news.ifeng.com/c/8nke38dJpcH",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 11时37分]"
+        },
+        {
+          "title": "特朗普：对加拿大再征收10%额外关税",
+          "url": "https://news.ifeng.com/c/8nkgbcKnGsh",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时37分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
@@ -131,29 +157,15 @@
           "time_info": "[00时05分 ~ 08时45分]"
         },
         {
-          "title": "美国总统特朗普启程访问亚洲三国",
-          "url": "https://news.ifeng.com/c/8nke38dJpcH",
-          "source": "凤凰网",
+          "title": "特朗普宣布对加拿大征收10%额外关税",
+          "url": "https://www.toutiao.com/trending/7564897310455529499/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 10时26分]"
-        },
-        {
-          "title": "特朗普：对加拿大再征收10%额外关税",
-          "url": "https://news.ifeng.com/c/8nkgbcKnGsh",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时26分]"
+          "time_info": "[10时25分 ~ 11时37分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
@@ -178,26 +190,15 @@
           "time_info": "[00时05分 ~ 07时02分]"
         },
         {
-          "title": "特朗普宣布对加拿大征收10%额外关税",
-          "url": "https://www.toutiao.com/trending/7564897310455529499/",
-          "source": "今日头条",
+          "title": "特朗普拆建白宫为何招非议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 10时26分]"
-        },
-        {
-          "title": "市场消息：美国总统特朗普抵达吉隆坡。",
-          "url": "https://flash.jin10.com/detail/20251026095739323800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "11时37分"
         },
         {
           "title": "特朗普为何邀高市早苗同乘总统专机",
@@ -219,8 +220,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时45分 ~ 11时37分]"
+        },
+        {
+          "title": "高市早苗与特朗普进行首次电话会谈",
+          "url": "https://flash.jin10.com/detail/20251026110048820800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普抵达吉隆坡。",
+          "url": "https://flash.jin10.com/detail/20251026095739323800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时26分]"
+          "time_info": "[10时26分 ~ 11时37分]"
         },
         {
           "title": "特朗普：“国际部队”不久将进驻加沙",
@@ -231,8 +255,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 10时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 11时37分]"
         },
         {
           "title": "特朗普称“国际部队”不久将进驻加沙",
@@ -245,6 +269,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时45分 ~ 10时26分]"
+        },
+        {
+          "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
+          "url": "https://flash.jin10.com/detail/20251026090438290800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时26分 ~ 11时37分]"
         },
         {
           "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
@@ -282,15 +318,37 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "特朗普即将访日 美驻日使馆附近发生持刀袭警事件",
-          "url": "https://flash.jin10.com/detail/20251026090438290800",
-          "source": "金十数据",
+          "title": "特朗普：对加拿大加征10%关税",
+          "url": "https://www.douyin.com/hot/2283231",
+          "source": "抖音",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时26分"
+          "time_info": "11时37分"
+        },
+        {
+          "title": "特朗普称即将对委内瑞拉展开地面军事行动，请问其动武的军费从何而来，一旦开战会对全球金融市场会有何影响？",
+          "url": "https://www.zhihu.com/question/1964979374068573060",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
+          "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "美俄印专家热议美对外战略，美前驻印度大使：印度难再信任特朗普",
@@ -353,11 +411,12 @@
             9,
             13,
             5,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 11时37分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -370,8 +429,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时05分 ~ 10时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时05分 ~ 11时37分]"
         },
         {
           "title": "美股为何一直在上涨",
