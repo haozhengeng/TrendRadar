@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T13:02:40.428351+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-10-29T14:08:06.355008+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 92,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时13分 ~ 07时02分]"
+        },
+        {
+          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
+          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时08分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 14时08分]"
         },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -42,28 +64,6 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
-          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
-          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时02分]"
-        },
-        {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 13时02分]"
-        },
-        {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
           "url": "https://news.ifeng.com/c/8np198dmCFI",
           "source": "凤凰网",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时13分 ~ 08时44分]"
+        },
+        {
+          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
+          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时08分]"
         },
         {
           "title": "特朗普径自走过日本国旗未鞠躬",
@@ -89,15 +100,29 @@
           "time_info": "[00时13分 ~ 08时44分]"
         },
         {
-          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
-          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
-          "source": "凤凰网",
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 14时08分]"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -109,6 +134,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时08分]"
         },
         {
           "title": "美国总统特朗普：日本首相高市早苗很棒，我觉得她是一个了不起的女人。她非常敏锐，非常聪明，非常有活力。",
@@ -128,7 +165,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -172,7 +209,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -183,18 +220,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
-          "url": "https://www.zhihu.com/question/1966809012960977218",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -216,7 +242,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -238,7 +264,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -265,19 +291,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时44分 ~ 12时19分]"
-        },
-        {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 13时02分]"
         },
         {
           "title": "特朗普媒体与科技公司：“真相社交”将与Crypto.com合作，即将开始在“真相社交”上进行测试，随后将在美国全面推出。",
@@ -379,16 +392,16 @@
           "time_info": "[04时02分 ~ 05时04分]"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
-          "source": "澎湃新闻",
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D29%26band_rank%3D29%26flag%3D1%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26c_type%3D31%26pos%3D30%26filter_type%3Drealtimehot%26display_time%3D1761713563%26pre_seqid%3D17617135638560346264134",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时08分]"
         },
         {
           "title": "特朗普在日本欢迎仪式尴尬绕场",
@@ -401,6 +414,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 12时19分]"
+        },
+        {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时08分]"
         },
         {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
@@ -521,6 +546,28 @@
           "time_info": "[12时19分 ~ 13时02分]"
         },
         {
+          "title": "特朗普为何抨击美航母电磁弹射技术",
+          "url": "https://www.toutiao.com/trending/7566463348447907366/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普或和李在明主谈关税问题",
+          "url": "https://www.toutiao.com/trending/7565869575464550406/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
+        },
+        {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D6%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25BD%25B0%25E7%2582%25B8%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E5%258F%25AA%25E6%2598%25AF%25E5%25B0%258F%25E5%2586%25B2%25E7%25AA%2581%2523%26band_rank%3D6%26c_type%3D31%26display_time%3D1761704816%26pre_seqid%3D176170481690903449392148",
           "source": "微博",
@@ -543,6 +590,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "美国总统特朗普：我们擅长制造其他东西，但造船业没有做好。造船是非常必要的。",
+          "url": "https://flash.jin10.com/detail/20251029135233900800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美国总统特朗普：民主党人造成政府停摆，在某种程度上，他们会回来的。我认为他们目前被“打得很惨”。但他们只要说一句，“我们回到正轨吧”，一切就会恢复。没什么需要签署的，也没什么需要谈的。",
           "url": "https://flash.jin10.com/detail/20251029095727696800",
           "source": "金十数据",
@@ -560,7 +618,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -582,9 +640,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "特朗普矛头再指鲍威尔 要求美联储降息",
+          "url": "https://flash.jin10.com/detail/20251029135119256800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
+          "url": "https://wallstreetcn.com/livenews/2995637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普",
@@ -604,7 +684,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -615,7 +695,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -626,7 +706,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -640,6 +720,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
+          "url": "https://wallstreetcn.com/livenews/2995634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国总统特朗普：我们在中东已经实现了和平。如有必要，我们可以很轻松地消除哈马斯，那将意味着哈马斯的终结。但我们更愿意选择和平方式。",
@@ -659,7 +750,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -681,9 +772,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "韩国总统李在明：希望美国总统特朗普能允许我们拥有核动力潜艇的燃料。",
+          "url": "https://flash.jin10.com/detail/20251029134759123800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国总统特朗普：预计下季度GDP增长4%。",
@@ -692,7 +794,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -714,7 +816,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -736,7 +838,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -752,6 +854,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "特朗普：与韩国的关系只会愈发牢固。",
+          "url": "https://wallstreetcn.com/livenews/2995628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美国总统特朗普在Truth Social上表示，我们来韩国可不是为了看加拿大的。",
           "url": "https://flash.jin10.com/detail/20251029113228570800",
           "source": "金十数据",
@@ -761,6 +874,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "韩国股市维持涨势，此前特朗普称美国与韩国有着“特殊纽带”关系，对双边贸易协议持乐观态度",
+          "url": "https://wallstreetcn.com/livenews/2995627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "芝加哥大豆期货涨0.8%，豆粕涨约2.8%，特朗普降价“呼声”拖累饲牛期货跌约2.9%",
@@ -783,6 +907,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "据韩联社：特朗普获颁韩国无穷花大勋章（韩国最高级别的荣誉勋章），开创美总统先河。",
+          "url": "https://flash.jin10.com/detail/20251029133909292800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "特朗普再批美联储主席鲍威尔",
@@ -862,17 +997,6 @@
           "time_info": "00时14分"
         },
         {
-          "title": "特朗普抵韩 落地后专属BGM响起",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
           "title": "特朗普2.0亚洲“首秀”重心何在",
           "url": "https://www.toutiao.com/trending/7566416366190759443/",
           "source": "今日头条",
@@ -893,17 +1017,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
-        },
-        {
-          "title": "特朗普",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D29%26band_rank%3D29%26flag%3D1%26lcate%3D5001%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26c_type%3D31%26pos%3D30%26filter_type%3Drealtimehot%26display_time%3D1761713563%26pre_seqid%3D17617135638560346264134",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         },
         {
           "title": "美媒：特朗普在解决自己制造的危机",
@@ -956,6 +1069,18 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 14时08分]"
+        },
+        {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
@@ -968,18 +1093,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时13分 ~ 10时30分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 13时02分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -1168,8 +1281,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时30分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 14时08分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -1255,7 +1368,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -1309,6 +1422,20 @@
           "time_info": "[03时04分 ~ 04时02分]"
         },
         {
+          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
+          "url": "https://www.cls.cn/detail/2184251",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 14时08分]"
+        },
+        {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
           "url": "https://flash.jin10.com/detail/20251029061557323800",
           "source": "金十数据",
@@ -1320,17 +1447,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
-          "url": "https://www.cls.cn/detail/2184251",
-          "source": "财联社热门",
+          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
+          "url": "https://www.zhihu.com/question/1966579524385903459",
+          "source": "知乎",
           "ranks": [
-            12,
-            9,
-            7
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 13时02分]"
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
         },
         {
           "title": "金价暴跌有投资者打算割肉离场",
