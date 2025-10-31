@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-01T06:04:00.258518+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2025-11-01T07:03:12.167094+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
-        },
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
           "url": "https://news.ifeng.com/c/8ntsDucQYrq",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -38,8 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -49,11 +50,12 @@
             19,
             18,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -63,11 +65,12 @@
             30,
             25,
             20,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时03分 ~ 06时04分]"
+          "appearance_count": 10,
+          "time_info": "[03时03分 ~ 07时03分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -96,6 +99,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时14分 ~ 05时03分]"
+        },
+        {
+          "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
+          "url": "https://wallstreetcn.com/livenews/2997914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
+          "url": "https://wallstreetcn.com/livenews/2997913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
@@ -159,6 +184,18 @@
           "time_info": "[02时14分 ~ 03时04分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
+          "url": "https://flash.jin10.com/detail/20251101031047264800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 07时03分]"
+        },
+        {
           "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
           "url": "https://wallstreetcn.com/livenews/2997872",
           "source": "华尔街见闻-快讯",
@@ -166,18 +203,6 @@
             9,
             20,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 06时04分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
-          "url": "https://flash.jin10.com/detail/20251101031047264800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -194,6 +219,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 02时14分]"
+        },
+        {
+          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
+          "url": "https://wallstreetcn.com/livenews/2997901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时03分]"
         },
         {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
@@ -253,17 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
-          "url": "https://wallstreetcn.com/livenews/2997901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
         },
         {
           "title": "特朗普宣布将尼日利亚列为“特别关注国” 谴责针对基督徒的暴力",
@@ -357,7 +383,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -367,8 +393,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -378,8 +404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -389,8 +415,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时03分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
@@ -400,8 +426,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时03分]"
         },
         {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
@@ -409,11 +435,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时03分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -423,8 +450,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时03分]"
         },
         {
           "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
@@ -434,8 +461,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时03分]"
+        },
+        {
+          "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/2997900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时04分]"
+          "time_info": "[06时04分 ~ 07时03分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -450,15 +489,15 @@
           "time_info": "[00时04分 ~ 01时03分]"
         },
         {
-          "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
-          "url": "https://wallstreetcn.com/livenews/2997900",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 07时03分]"
         }
       ]
     },
@@ -471,11 +510,24 @@
           "url": "https://www.cls.cn/detail/2188436",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时03分 ~ 07时03分]"
+        },
+        {
+          "title": "金价10月份涨3.7%，现货白银涨约4.3%",
+          "url": "https://wallstreetcn.com/livenews/2997897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时03分 ~ 06时04分]"
+          "time_info": "[06时04分 ~ 07时03分]"
         },
         {
           "title": "金价短线跳水，从4020美元一线跌向3970美元",
@@ -487,17 +539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "金价10月份涨3.7%，现货白银涨约4.3%",
-          "url": "https://wallstreetcn.com/livenews/2997897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
         },
         {
           "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
@@ -524,8 +565,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
@@ -533,11 +574,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时03分]"
         },
         {
           "title": "共和党参议员称谷歌人工智能模型针对保守派",
@@ -597,8 +639,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 06时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时03分 ~ 07时03分]"
         }
       ]
     },
@@ -612,11 +654,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时03分]"
         }
       ]
     }
