@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T16:04:54.890937+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2025-11-01T17:04:20.024475+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[00时03分 ~ 07时03分]"
         },
         {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 17时04分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
           "source": "澎湃新闻",
@@ -43,16 +55,17 @@
           "time_info": "[00时03分 ~ 07时03分]"
         },
         {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            8,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 16时04分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 17时04分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -86,19 +99,6 @@
           "time_info": "[03时03分 ~ 07时03分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 16时04分]"
-        },
-        {
           "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
           "source": "澎湃新闻",
@@ -107,11 +107,12 @@
             15,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 16时04分]"
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 17时04分]"
         },
         {
           "title": "特朗普：加总理道歉了，没用",
@@ -121,8 +122,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 16时04分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 17时04分]"
         },
         {
           "title": "美国总统特朗普：民主党只需要让政府开门就够了。 （特朗普本人/共和党阵营）一直都愿意与民主党会面。",
@@ -151,6 +152,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时14分 ~ 05时03分]"
+        },
+        {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 17时04分]"
+        },
+        {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 17时04分]"
         },
         {
           "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
@@ -203,6 +227,19 @@
           "time_info": "[02时14分 ~ 03时04分]"
         },
         {
+          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://flash.jin10.com/detail/20251101135652852800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时04分]"
+        },
+        {
           "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
           "url": "https://wallstreetcn.com/livenews/2997913",
           "source": "华尔街见闻-快讯",
@@ -228,17 +265,6 @@
           "time_info": "[02时14分 ~ 03时04分]"
         },
         {
-          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
-          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 16时04分]"
-        },
-        {
           "title": "美国法官裁定，特朗普政府在政府停摆期间暂停美国补充营养协助计划（SNAP）食品援助福利的计划可能违法。",
           "url": "https://flash.jin10.com/detail/20251101015020178800",
           "source": "金十数据",
@@ -249,29 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时14分 ~ 03时04分]"
-        },
-        {
-          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://flash.jin10.com/detail/20251101135652852800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时04分]"
-        },
-        {
-          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
-          "url": "https://news.ifeng.com/c/8nvMEROArvE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 16时04分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
@@ -299,6 +302,19 @@
           "time_info": "[06时04分 ~ 08时45分]"
         },
         {
+          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://wallstreetcn.com/livenews/2997972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时04分]"
+        },
+        {
           "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
           "url": "https://wallstreetcn.com/livenews/2997872",
           "source": "华尔街见闻-快讯",
@@ -323,6 +339,17 @@
           "time_info": "[08时44分 ~ 08时45分]"
         },
         {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 17时04分]"
+        },
+        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
           "url": "https://wallstreetcn.com/livenews/2997828",
           "source": "华尔街见闻-快讯",
@@ -335,16 +362,15 @@
           "time_info": "[01时03分 ~ 02时14分]"
         },
         {
-          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://wallstreetcn.com/livenews/2997972",
-          "source": "华尔街见闻-快讯",
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时04分]"
+          "time_info": "[16时04分 ~ 17时04分]"
         },
         {
           "title": "美国防部批准对乌提供远程战斧导弹 最终决定权移交特朗普",
@@ -415,28 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时03分]"
-        },
-        {
-          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
-          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
-          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
         },
         {
           "title": "特朗普宣布将尼日利亚列为“特别关注国” 谴责针对基督徒的暴力",
@@ -573,8 +577,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 16时04分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 17时04分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -588,8 +592,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时02分 ~ 16时04分]"
+          "appearance_count": 12,
+          "time_info": "[07时02分 ~ 17时04分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -725,8 +729,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时03分 ~ 16时04分]"
+          "appearance_count": 14,
+          "time_info": "[06时03分 ~ 17时04分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -871,8 +875,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时04分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时04分]"
         }
       ]
     },
@@ -892,6 +896,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时03分 ~ 07时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗革命卫队海军在波斯湾查获24万升走私燃料",
+          "url": "https://flash.jin10.com/detail/20251101154233808800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     }
