@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:19:03.357342+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2025-11-04T21:29:02.629411+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -93,8 +93,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时03分 ~ 20时19分]"
+          "appearance_count": 32,
+          "time_info": "[00时03分 ~ 21时29分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时03分 ~ 21时29分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -186,17 +198,6 @@
           "time_info": "[15时02分 ~ 19时04分]"
         },
         {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 20时19分]"
-        },
-        {
           "title": "特朗普称对中国与其打压不如合作",
           "url": "https://www.toutiao.com/trending/7568736208902324287/",
           "source": "今日头条",
@@ -207,6 +208,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时02分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "奥巴马抨击特朗普释放了什么信号",
@@ -306,6 +318,18 @@
           "time_info": "[16时04分 ~ 17时12分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 21时29分]"
+        },
+        {
           "title": "美国多方“围剿”特朗普只为废除关税",
           "url": "https://www.toutiao.com/trending/7568663171070692900/",
           "source": "今日头条",
@@ -380,6 +404,17 @@
           "time_info": "[04时03分 ~ 05时03分]"
         },
         {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：（总统特朗普政府关门造成的）缺乏政府数据不应当干扰到FOMC的决策。",
           "url": "https://wallstreetcn.com/livenews/2998690",
           "source": "华尔街见闻-快讯",
@@ -437,17 +472,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 03时03分]"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时18分 ~ 20时19分]"
         },
         {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
@@ -574,7 +598,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -584,8 +608,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时41分 ~ 20时19分]"
+          "appearance_count": 19,
+          "time_info": "[08时41分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -630,7 +654,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -668,17 +692,6 @@
           "time_info": "14时16分"
         },
         {
-          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/2999207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
           "url": "https://flash.jin10.com/detail/20251104134919523800",
           "source": "金十数据",
@@ -713,6 +726,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "辉瑞第三季度营收166.5亿美元，预估165.9亿美元。 辉瑞第三季度调整后每股收益0.87美元。 辉瑞仍然预测全年营收610亿美元至640亿美元。 辉瑞预计全年调整后每股收益3-3.15美元，此前预计2.9-3.1美元。 辉瑞美股盘前涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/2999207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时29分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -787,6 +812,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "法拉利第三季度营收17.7亿欧元，预估17.1亿欧元。 第三季度EBITDA 6.7亿欧元，预估6.45亿欧元。 第三季度息税前利润5.03亿欧元，预估4.71亿欧元。 第三季度交付量3401辆，预估3347辆。 法拉利美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/2999193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时19分 ~ 21时29分]"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251104050600699800",
           "source": "金十数据",
@@ -845,26 +882,37 @@
           "time_info": "06时02分"
         },
         {
-          "title": "法拉利第三季度营收17.7亿欧元，预估17.1亿欧元。 第三季度EBITDA 6.7亿欧元，预估6.45亿欧元。 第三季度息税前利润5.03亿欧元，预估4.71亿欧元。 第三季度交付量3401辆，预估3347辆。 法拉利美股盘前涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/2999193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
           "title": "Spotify三季度营收42.7亿欧元，预估42.3亿欧元。 三季度每股收益3.26欧元，上年同期1.45欧元。 三季度营业利润5.82亿欧元，同比增长28%。 Spotify预计四季度营收45亿欧元，预估45.7亿欧元。 Spotify预计四季度营业利润6.2亿欧元，预估6.053亿欧元。 Spotify美股盘前涨近7%。",
           "url": "https://wallstreetcn.com/livenews/2999184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
+        },
+        {
+          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2999213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/2999210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -939,7 +987,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -957,8 +1005,71 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：实时车道导航功能将拓展至更多道路类型及合作车企车型。",
+          "url": "https://flash.jin10.com/detail/20251104210818012800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
+          "url": "https://flash.jin10.com/detail/20251104210638002800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时03分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
+          "url": "https://wallstreetcn.com/livenews/2998693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 03时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "荷兰国际：美债收益率曲线仍过于平坦",
@@ -970,6 +1081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头占比升至9月29日以来最高",
+          "url": "https://wallstreetcn.com/livenews/2999233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         },
         {
           "title": "30年期美债收益率涨约3.7个基点",
@@ -1060,47 +1182,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时03分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/2998693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时04分 ~ 03时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1115,8 +1196,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时02分 ~ 20时19分]"
+          "appearance_count": 21,
+          "time_info": "[06时02分 ~ 21时29分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
