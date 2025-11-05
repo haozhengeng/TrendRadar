@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T08:43:40.993176+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2025-11-05T10:26:33.825617+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -69,6 +69,50 @@
           "time_info": "07时09分"
         },
         {
+          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
+          "url": "https://wallstreetcn.com/livenews/2999566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251105100328874800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
+          "url": "https://news.ifeng.com/c/8o11vuaIumr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
           "url": "https://flash.jin10.com/detail/20251105062051375800",
           "source": "金十数据",
@@ -78,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "美国前财长批评特朗普滥用紧急权力征收关税",
+          "url": "https://flash.jin10.com/detail/20251105100305577800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
@@ -188,6 +243,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 02时04分]"
+        },
+        {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时26分]"
         },
         {
           "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
@@ -322,17 +389,6 @@
           "time_info": "[00时04分 ~ 08时43分]"
         },
         {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
           "title": "特朗普称最高法院关税案关乎美国存亡",
           "url": "https://flash.jin10.com/detail/20251105060423187800",
           "source": "金十数据",
@@ -366,13 +422,24 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普再次为援乌“战斧”踩刹车",
+          "url": "https://www.toutiao.com/trending/7568817691008437802/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "被问及是否计划袭击委内瑞拉，特朗普嘲讽记者：就算有，我能告诉你？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31879523",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -402,7 +469,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -423,11 +490,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 08时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 10时26分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -436,9 +504,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时26分]"
+        },
+        {
+          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2191216",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时09分 ~ 10时26分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -452,16 +532,15 @@
           "time_info": "07时09分"
         },
         {
-          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2191216",
-          "source": "财联社热门",
+          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
+          "url": "https://www.zhihu.com/question/1969182296755122552",
+          "source": "知乎",
           "ranks": [
-            7,
-            2
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 08时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -512,6 +591,17 @@
           "time_info": "[06时04分 ~ 07时09分]"
         },
         {
+          "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
+          "url": "https://flash.jin10.com/detail/20251105095353867800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
           "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
           "url": "https://wallstreetcn.com/livenews/2999433",
           "source": "华尔街见闻-快讯",
@@ -540,7 +630,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         },
@@ -628,6 +718,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时26分]"
+        },
+        {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
           "url": "https://flash.jin10.com/detail/20251105011112408800",
           "source": "金十数据",
@@ -674,17 +776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 02时04分]"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时43分"
         },
         {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
@@ -806,7 +897,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
@@ -815,9 +906,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
