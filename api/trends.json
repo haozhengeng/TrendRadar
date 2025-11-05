@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T15:03:04.882053+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-11-05T16:04:45.478575+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 16时04分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时43分 ~ 15时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 16时04分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -102,17 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
-          "url": "https://wallstreetcn.com/livenews/2999698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
         },
         {
           "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
@@ -210,6 +199,18 @@
           "time_info": "[06时04分 ~ 07时09分]"
         },
         {
+          "title": "特朗普再次提名艾萨克曼出任美航天局局长",
+          "url": "https://wallstreetcn.com/livenews/2999698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时04分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
           "url": "https://wallstreetcn.com/livenews/2999357",
           "source": "华尔街见闻-快讯",
@@ -269,6 +270,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 14时02分]"
+        },
+        {
+          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1969362121386100394",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时04分]"
         },
         {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
@@ -415,17 +428,6 @@
           "time_info": "[00时04分 ~ 08时43分]"
         },
         {
-          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1969362121386100394",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时03分]"
-        },
-        {
           "title": "特朗普对华“示好”是认清现实了吗",
           "url": "https://www.toutiao.com/trending/7569074435831909938/",
           "source": "今日头条",
@@ -436,6 +438,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 14时02分]"
+        },
+        {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "特朗普称最高法院关税案关乎美国存亡",
@@ -562,8 +575,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时43分 ~ 15时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 16时04分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -584,11 +597,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 15时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 16时04分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -611,11 +625,12 @@
           "ranks": [
             12,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 15时03分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 16时04分]"
         },
         {
           "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
@@ -751,7 +766,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -847,7 +862,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
@@ -859,8 +874,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时43分 ~ 15时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 16时04分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
@@ -920,6 +935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "市场消息：谷歌已扫清美国司法部的反垄断障碍，得以推进其320亿美元的收购网络安全公司Wiz交易。",
+          "url": "https://flash.jin10.com/detail/20251105153256493800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     },
@@ -945,7 +971,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -990,7 +1016,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         }
@@ -998,7 +1024,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价",
@@ -1046,12 +1072,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数4日上涨",
@@ -1089,6 +1126,17 @@
           "time_info": "[05时02分 ~ 06时04分]"
         },
         {
+          "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
+          "url": "https://www.cls.cn/detail/2191412",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
           "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
           "url": "https://wallstreetcn.com/livenews/2999277",
           "source": "华尔街见闻-快讯",
@@ -1103,7 +1151,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球股市动荡引领资金买美债 分析师称10年期收益率下看3.5%",
@@ -1112,7 +1160,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -1127,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时04分]"
+        },
+        {
+          "title": "荷兰国际：10年期美债收益率预计暂稳于4%以上",
+          "url": "https://flash.jin10.com/detail/20251105152929565800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     },
