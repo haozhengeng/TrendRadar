@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T15:02:48.364566+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-11-06T16:15:50.348028+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 15时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 16时15分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -83,6 +83,17 @@
           "time_info": "[11时41分 ~ 14时17分]"
         },
         {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 16时15分]"
+        },
+        {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
           "url": "https://wallstreetcn.com/articles/3758724",
           "source": "华尔街见闻",
@@ -93,19 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时03分 ~ 15时02分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 15时02分]"
+          "appearance_count": 14,
+          "time_info": "[05时03分 ~ 16时15分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -158,6 +158,17 @@
           "time_info": "[08时42分 ~ 10时28分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时15分]"
+        },
+        {
           "title": "美国白宫：特朗普将于周四上午11点（北京时间周周五零点）发表声明。",
           "url": "https://flash.jin10.com/detail/20251106080755974800",
           "source": "金十数据",
@@ -178,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
         },
         {
           "title": "特朗普再次对尼日利亚发出威胁",
@@ -370,6 +370,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时03分]"
+        },
+        {
+          "title": "法国外贸银行：特朗普关税案若败诉，美贸易政策将陷入更深不确定性之中",
+          "url": "https://flash.jin10.com/detail/20251106160417235800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "特朗普表示关税案件进展顺利",
@@ -576,7 +587,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -590,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "民主党想把特朗普赶下台吗",
+          "url": "https://www.toutiao.com/trending/7569499059413585417/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
@@ -642,7 +664,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
@@ -686,8 +708,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 16时15分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -713,8 +735,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 16时15分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -1054,7 +1076,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1065,7 +1087,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
@@ -1215,7 +1237,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1255,8 +1277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 15时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 16时15分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -1301,7 +1323,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1364,7 +1386,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
