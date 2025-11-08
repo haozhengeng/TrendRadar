@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T16:03:11.815577+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-11-08T17:02:35.859914+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时17分 ~ 16时03分]"
+          "appearance_count": 10,
+          "time_info": "[10时17分 ~ 17时02分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -78,11 +78,12 @@
             16,
             17,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时41分 ~ 16时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时41分 ~ 17时02分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -229,6 +230,17 @@
           "time_info": "[01时03分 ~ 02时04分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 17时02分]"
+        },
+        {
           "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
           "url": "https://flash.jin10.com/detail/20251108084855810800",
           "source": "金十数据",
@@ -240,17 +252,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时17分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 16时03分]"
         },
         {
           "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
@@ -431,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 07时02分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
@@ -635,8 +647,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时41分 ~ 16时03分]"
+          "appearance_count": 11,
+          "time_info": "[08时41分 ~ 17时02分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -662,8 +674,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 16时03分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 17时02分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -832,8 +844,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 16时03分]"
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 17时02分]"
         },
         {
           "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
@@ -897,8 +909,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 17时02分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
