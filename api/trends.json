@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:03:05.219450+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-11-10T18:03:03.220510+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -126,6 +126,20 @@
           "time_info": "[00时03分 ~ 06时02分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时16分 ~ 18时03分]"
+        },
+        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E6%8E%A5%E8%BF%91%E7%BB%93%E6%9D%9F",
           "source": "bilibili 热搜",
@@ -161,19 +175,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时30分 ~ 14时16分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 17时03分]"
         },
         {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
@@ -422,6 +423,17 @@
           "time_info": "[13时03分 ~ 14时16分]"
         },
         {
+          "title": "拜登为什么罕见出面痛批特朗普",
+          "url": "https://www.toutiao.com/trending/7570996784411971126/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
+        },
+        {
           "title": "如何看待特朗普要给美国民众发钱",
           "url": "https://www.toutiao.com/trending/7570944913760587274/",
           "source": "今日头条",
@@ -444,13 +456,24 @@
           "time_info": "08时44分"
         },
         {
+          "title": "克里姆林宫：（就美国总统特朗普有关俄乌冲突将在不久的将来结束的言论回应）我们也希望冲突能尽快结束。",
+          "url": "https://flash.jin10.com/detail/20251110172130688800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "美国上诉法院裁定，特朗普政府必须全额发放补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251110162612983800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -524,7 +547,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -553,8 +576,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时30分 ~ 17时03分]"
+          "appearance_count": 13,
+          "time_info": "[10时30分 ~ 18时03分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -580,12 +603,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3002065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价",
@@ -607,7 +641,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -622,6 +656,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时44分 ~ 12时18分]"
+        },
+        {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时03分]"
         }
       ]
     },
