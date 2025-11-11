@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T13:03:03.224093+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2025-11-11T14:15:43.332509+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 13时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 14时15分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -54,11 +54,12 @@
             19,
             28,
             29,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时03分 ~ 13时03分]"
+          "appearance_count": 18,
+          "time_info": "[00时03分 ~ 14时15分]"
         },
         {
           "title": "特朗普：所有空中交通管制员立即复工",
@@ -84,6 +85,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 04时02分]"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时15分]"
         },
         {
           "title": "美国总统特朗普与叙利亚领导人沙拉的会晤已开始。",
@@ -141,6 +155,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
+          "url": "https://wallstreetcn.com/livenews/3002542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "美国总统特朗普要求空中交通控制管理人员立即重返工作岗位。 特朗普在自家社交媒体平台暗示，政府关门期间，空管人员将获得1万美元（“津贴”）。",
           "url": "https://wallstreetcn.com/livenews/3002232",
           "source": "华尔街见闻-快讯",
@@ -183,18 +208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时03分]"
         },
         {
           "title": "叙利亚领导人沙拉和美国总统特朗普的会晤结束。",
@@ -408,6 +421,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普：如果不采取措施应对芝加哥的谋杀和犯罪问题 美国最好的购物中心将被迫关门",
+          "url": "https://flash.jin10.com/detail/20251111135746280800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
+          "url": "https://flash.jin10.com/detail/20251111134244008800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国总统特朗普：没有休假的空中交通管制员将获得1万美元奖金。",
@@ -655,8 +690,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时42分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时42分 ~ 14时15分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -668,8 +703,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时42分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时42分 ~ 14时15分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -681,8 +716,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时03分 ~ 13时03分]"
+          "appearance_count": 20,
+          "time_info": "[00时03分 ~ 14时15分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -702,6 +737,18 @@
           "time_info": "[00时03分 ~ 07时02分]"
         },
         {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时26分 ~ 14时15分]"
+        },
+        {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
           "url": "https://wallstreetcn.com/articles/3759018",
           "source": "华尔街见闻",
@@ -711,18 +758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 13时03分]"
         },
         {
           "title": "CoreWeave美股盘后跌约7%。",
@@ -998,69 +1033,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
-          "url": "https://flash.jin10.com/detail/20251111115436400800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
-          "url": "https://flash.jin10.com/detail/20251111115423827800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3002225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "谷歌：Gemini for TV将在未来几周内开始向Google TV流媒体设备推送。",
-          "url": "https://flash.jin10.com/detail/20251111010942677800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨约5.8%，谷歌A涨4%",
-          "url": "https://wallstreetcn.com/livenews/3002330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗货币改革将启动：删除4个0",
@@ -1072,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时03分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗否认密谋暗杀以色列驻墨西哥大使",
+          "url": "https://flash.jin10.com/detail/20251111140540603800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "伊朗外交部：与美西方谈判前提是解除制裁",
@@ -1117,6 +1102,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20251111115423827800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3002225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "谷歌：Gemini for TV将在未来几周内开始向Google TV流媒体设备推送。",
+          "url": "https://flash.jin10.com/detail/20251111010942677800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨约5.8%，谷歌A涨4%",
+          "url": "https://wallstreetcn.com/livenews/3002330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
