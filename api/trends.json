@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:14:50.526688+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2025-11-12T13:02:53.050571+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             14,
             17,
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -147,8 +148,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时02分]"
         },
         {
           "title": "特朗普：将降低部分咖啡关税。",
@@ -558,8 +559,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 12时14分]"
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 13时02分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -791,8 +792,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -804,8 +805,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时42分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时42分 ~ 13时02分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -892,8 +893,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 13时02分]"
         },
         {
           "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
@@ -1008,8 +1009,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时42分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时42分 ~ 13时02分]"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
