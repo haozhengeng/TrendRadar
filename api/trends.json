@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T13:02:02.887089+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2025-11-15T14:02:33.027197+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 13时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 14时02分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -43,6 +43,47 @@
           "time_info": "[04时02分 ~ 08时41分]"
         },
         {
+          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
+          "url": "https://flash.jin10.com/detail/20251115094016472800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
+          "url": "https://wallstreetcn.com/livenews/3005121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            21,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普称将向BBC索赔10亿到50亿美元",
+          "url": "https://flash.jin10.com/detail/20251115132619706800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。",
           "url": "https://wallstreetcn.com/livenews/3005094",
           "source": "华尔街见闻-快讯",
@@ -64,20 +105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 02时14分]"
-        },
-        {
-          "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
-          "url": "https://flash.jin10.com/detail/20251115094016472800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时02分]"
         },
         {
           "title": "美国总统特朗普：寻求调查爱泼斯坦与摩根大通的关系。",
@@ -104,18 +131,19 @@
           "time_info": "[01时02分 ~ 02时14分]"
         },
         {
-          "title": "特朗普：已经书面通知BBC了。 认为（关于）BBC的诉讼会很快结束。",
-          "url": "https://wallstreetcn.com/livenews/3005121",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
+          "url": "https://flash.jin10.com/detail/20251115090032024800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            16,
-            21,
-            25
+            6,
+            9,
+            13,
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 14时02分]"
         },
         {
           "title": "特朗普拟削减部分食品杂货的关税",
@@ -129,6 +157,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时02分 ~ 08时41分]"
+        },
+        {
+          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
+          "url": "https://wallstreetcn.com/livenews/3005141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 14时02分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普的中东问题特使Witkoff打算很快会见哈马斯首席谈判员。（纽约时报）",
@@ -170,18 +211,6 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
-          "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
-          "url": "https://wallstreetcn.com/livenews/3005141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 13时02分]"
-        },
-        {
           "title": "美国总统特朗普：瑞士与Liechtenstein（列支敦士登）有意合作，美方将确保供应链。",
           "url": "https://wallstreetcn.com/livenews/3004988",
           "source": "华尔街见闻-快讯",
@@ -204,20 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时41分 ~ 10时22分]"
-        },
-        {
-          "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
-          "url": "https://flash.jin10.com/detail/20251115090032024800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时02分]"
         },
         {
           "title": "美国总统特朗普：要求司法部和美国联邦调查局（FBI）也调查摩根大通与爱泼斯坦的关系。",
@@ -450,8 +465,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 13时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 14时02分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -464,8 +479,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 13时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 14时02分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -487,8 +502,21 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时41分 ~ 14时02分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时41分 ~ 13时02分]"
+          "time_info": "[10时22分 ~ 14时02分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -501,19 +529,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 01时13分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 13时02分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -669,8 +684,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 13时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 14时02分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -680,8 +695,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时34分 ~ 14时02分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -689,11 +704,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时22分 ~ 14时02分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
@@ -703,11 +719,12 @@
             5,
             8,
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 14时02分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -828,11 +845,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时34分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 14时02分]"
         },
         {
           "title": "金价",
