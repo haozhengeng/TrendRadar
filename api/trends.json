@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:17:44.641951+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-11-19T21:25:46.930071+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时25分 ~ 20时17分]"
+          "appearance_count": 13,
+          "time_info": "[10时25分 ~ 21时25分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -58,8 +59,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 20时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 21时25分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -87,6 +88,17 @@
           "time_info": "[16时02分 ~ 20时17分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时10分 ~ 21时25分]"
+        },
+        {
           "title": "特朗普与沙特王储握手露出尴尬表情",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
           "source": "百度热搜",
@@ -99,17 +111,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时02分 ~ 17时11分]"
-        },
-        {
-          "title": "特朗普怒怼ABC女记者",
-          "url": "https://www.toutiao.com/trending/7574268540435136563/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -140,7 +141,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -211,17 +212,6 @@
           "time_info": "08时42分"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时10分 ~ 20时17分]"
-        },
-        {
           "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
           "url": "https://wallstreetcn.com/livenews/3006680",
           "source": "华尔街见闻-快讯",
@@ -233,6 +223,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 21时25分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -258,6 +260,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时02分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时25分]"
         },
         {
           "title": "特朗普为何在爱泼斯坦案上罕见低头",
@@ -319,15 +332,16 @@
           "time_info": "[03时03分 ~ 04时02分]"
         },
         {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时17分]"
+          "time_info": "[20时17分 ~ 21时25分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -475,17 +489,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
-          "url": "https://wallstreetcn.com/livenews/3007210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
         },
         {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
@@ -890,11 +893,12 @@
             12,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时10分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[17时10分 ~ 21时25分]"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1095,7 +1099,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1107,8 +1111,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时25分 ~ 20时17分]"
+          "appearance_count": 13,
+          "time_info": "[10时25分 ~ 21时25分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1122,8 +1126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时38分 ~ 20时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时38分 ~ 21时25分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -1152,11 +1156,12 @@
             19,
             20,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时25分 ~ 20时17分]"
+          "appearance_count": 13,
+          "time_info": "[10时25分 ~ 21时25分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1187,6 +1192,21 @@
           "time_info": "[02时02分 ~ 08时42分]"
         },
         {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            21,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时25分]"
+        },
+        {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
@@ -1199,20 +1219,6 @@
           "time_info": "[08时42分 ~ 13时02分]"
         },
         {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 20时17分]"
-        },
-        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -1222,6 +1228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -1328,7 +1345,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -1340,8 +1357,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 20时17分]"
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 21时25分]"
         },
         {
           "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
@@ -1350,7 +1367,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         },
@@ -1361,9 +1378,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
@@ -1453,7 +1481,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         }
