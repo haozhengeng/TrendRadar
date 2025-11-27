@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T19:02:26.410530+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2025-11-27T20:18:22.420434+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -54,11 +54,12 @@
             9,
             13,
             17,
-            19
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 20时18分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -81,11 +82,12 @@
             11,
             14,
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[11时39分 ~ 20时18分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -102,8 +104,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时02分 ~ 19时02分]"
+          "appearance_count": 26,
+          "time_info": "[00时02分 ~ 20时18分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -119,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时24分 ~ 19时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时24分 ~ 20时18分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -306,6 +308,20 @@
           "time_info": "[11时39分 ~ 13时02分]"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 20时18分]"
+        },
+        {
           "title": "特朗普称不再给乌克兰设最后期限",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
           "source": "百度热搜",
@@ -342,19 +358,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 19时02分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -457,7 +460,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -471,6 +474,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-27）",
+          "url": "https://flash.jin10.com/detail/20251127192012034800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
@@ -736,7 +761,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -746,8 +771,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时41分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时41分 ~ 20时18分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -786,18 +811,6 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时02分]"
-        },
-        {
           "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
           "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
@@ -808,8 +821,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时12分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时12分 ~ 20时18分]"
+        },
+        {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时02分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -860,6 +885,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时12分]"
+        },
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
@@ -924,8 +960,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 20时18分]"
         },
         {
           "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
