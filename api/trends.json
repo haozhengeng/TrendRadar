@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T15:12:25.711763+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2025-11-27T16:14:56.676537+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -19,6 +19,19 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7576971637803716150/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时24分 ~ 16时14分]"
+        },
+        {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
           "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
           "source": "澎湃新闻",
@@ -29,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 15时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 16时14分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -44,19 +57,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时02分 ~ 10时25分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.toutiao.com/trending/7576971637803716150/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 15时12分]"
         },
         {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
@@ -78,11 +78,39 @@
             10,
             13,
             14,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 15时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 16时14分]"
+        },
+        {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时24分 ~ 16时14分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时24分 ~ 16时14分]"
         },
         {
           "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
@@ -96,32 +124,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时41分 ~ 15时12分]"
-        },
-        {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 15时12分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 15时12分]"
         },
         {
           "title": "特朗普电话后日本沮丧了三次",
@@ -151,6 +153,20 @@
           "time_info": "[10时24分 ~ 14时15分]"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 16时14分]"
+        },
+        {
           "title": "特朗普一通电话后 高市早苗只有沉默",
           "url": "https://www.toutiao.com/trending/7576901878579990070/",
           "source": "今日头条",
@@ -178,17 +194,15 @@
           "time_info": "[08时41分 ~ 12时14分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
           "source": "百度热搜",
           "ranks": [
-            12,
-            7,
-            11
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时12分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时14分]"
         },
         {
           "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
@@ -211,17 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
@@ -280,6 +283,19 @@
           "time_info": "[11时39分 ~ 13时02分]"
         },
         {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 16时14分]"
+        },
+        {
           "title": "特朗普称不再给乌克兰设最后期限",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
           "source": "百度热搜",
@@ -316,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 14时15分]"
-        },
-        {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时12分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -457,6 +461,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
           "url": "https://wallstreetcn.com/livenews/3011041",
           "source": "华尔街见闻-快讯",
@@ -474,7 +489,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -708,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时41分 ~ 15时12分]"
+          "appearance_count": 12,
+          "time_info": "[08时41分 ~ 16时14分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -773,6 +788,18 @@
           "time_info": "[07时02分 ~ 11时39分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 16时14分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
           "url": "https://wallstreetcn.com/livenews/3011063",
           "source": "华尔街见闻-快讯",
@@ -795,17 +822,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时12分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
         }
       ]
     },
@@ -824,8 +840,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 15时12分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 16时14分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -886,7 +902,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -972,11 +988,12 @@
           "url": "https://www.toutiao.com/trending/7576229938517852170/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时12分 ~ 16时14分]"
         }
       ]
     },
