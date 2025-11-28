@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T18:02:12.295674+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2025-11-28T19:02:25.093457+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -22,6 +22,20 @@
           "time_info": "[00时02分 ~ 08时41分]"
         },
         {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时24分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
           "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
           "source": "澎湃新闻",
@@ -35,20 +49,6 @@
           "time_info": "[00时02分 ~ 10时24分]"
         },
         {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时24分 ~ 18时02分]"
-        },
-        {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
           "url": "https://www.cls.cn/detail/2213724",
           "source": "财联社热门",
@@ -56,11 +56,12 @@
             6,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时11分 ~ 19时02分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -415,6 +416,17 @@
           "time_info": "14时15分"
         },
         {
+          "title": "特朗普能否影响高市改善中日关系",
+          "url": "https://www.toutiao.com/trending/7577703090468425243/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国总统特朗普：（谈及委内瑞拉表示）我们很快就会开始通过陆路打击毒品走私。",
           "url": "https://flash.jin10.com/detail/20251128074411874800",
           "source": "金十数据",
@@ -462,7 +474,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -472,8 +484,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时40分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时40分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -486,8 +498,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时40分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时40分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -529,8 +541,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时11分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -564,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -597,6 +620,18 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时02分]"
+        },
+        {
           "title": "“AI新王”谷歌市值迈向4万亿，大摩预测：2027年“外销”高达100万片TPU！",
           "url": "https://wallstreetcn.com/articles/3760220",
           "source": "华尔街见闻",
@@ -606,17 +641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
-          "url": "https://www.cls.cn/detail/2213699",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
         },
         {
           "title": "谷歌已重启AI眼镜项目 AI眼镜产业链近期催化密集",
@@ -636,7 +660,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -749,11 +773,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时40分 ~ 18时02分]"
+          "appearance_count": 14,
+          "time_info": "[08时40分 ~ 19时02分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
@@ -762,7 +787,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
