@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:02:27.972830+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-11-29T16:02:29.318891+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
@@ -221,11 +221,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "马斯克特朗普共进感恩节晚餐",
@@ -325,8 +326,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 15时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 16时02分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -344,6 +345,18 @@
           "time_info": "[04时02分 ~ 13时02分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时40分 ~ 16时02分]"
+        },
+        {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251129031224808800",
           "source": "金十数据",
@@ -356,18 +369,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时02分 ~ 12时12分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时40分 ~ 15时02分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -580,8 +581,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 16时02分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -592,8 +593,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
@@ -622,8 +623,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 16时02分]"
         },
         {
           "title": "金价",
