@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T15:13:17.326960+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-12-03T16:15:10.123913+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 82,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -33,6 +33,20 @@
         },
         {
           "title": "特朗普“点名”日本",
+          "url": "https://www.toutiao.com/trending/7579444252149763593/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普“点名”日本",
           "url": "https://news.ifeng.com/c/8omI9QpRNFm",
           "source": "凤凰网",
           "ranks": [
@@ -53,22 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 15时13分]"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.toutiao.com/trending/7579444252149763593/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时29分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 16时15分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -83,6 +83,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时42分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普开嘲：许多盟友敲美国竹杠，我不点名…比如日韩",
+          "url": "https://news.ifeng.com/c/8omUX9I4Irn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -116,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普积极暗示美联储主席人选 美元汇率闻讯下跌",
+          "url": "https://flash.jin10.com/detail/20251203160052958800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "哥伦比亚总统回应特朗普威胁：侵犯主权即宣战",
@@ -277,6 +310,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时29分 ~ 12时19分]"
+        },
+        {
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
@@ -506,6 +561,28 @@
           "time_info": "[02时15分 ~ 03时11分]"
         },
         {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "中方回应特朗普签属涉台法律",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%B1%9E%E6%B6%89%E5%8F%B0%E6%B3%95%E5%BE%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
           "title": "美媒：特朗普取消本周的美联储主席遴选面试",
           "url": "https://flash.jin10.com/detail/20251203075259305800",
           "source": "金十数据",
@@ -581,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "特朗普签署涉台法案 外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://wallstreetcn.com/livenews/3014299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -883,8 +971,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 16时15分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1086,8 +1174,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时42分 ~ 16时15分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 16时15分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1103,20 +1206,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 15时13分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -1371,6 +1460,45 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
+          "url": "https://flash.jin10.com/detail/20251203144426116800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "杰富瑞：美联储主席人选及通胀担忧推动做陡美债收益率曲线",
+          "url": "https://flash.jin10.com/detail/20251203155457007800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "摩根大通预计美债收益率明年将上升，降息预期料减弱",
+          "url": "https://wallstreetcn.com/livenews/3013963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1390,39 +1518,12 @@
           "url": "https://wallstreetcn.com/articles/3760553",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
-          "url": "https://flash.jin10.com/detail/20251203144426116800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "摩根大通预计美债收益率明年将上升，降息预期料减弱",
-          "url": "https://wallstreetcn.com/livenews/3013963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时15分]"
         }
       ]
     },
