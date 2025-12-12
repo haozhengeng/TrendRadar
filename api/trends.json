@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:15:00.524612+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2025-12-12T18:02:58.505224+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 72,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -28,11 +28,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时12分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[13时12分 ~ 18时02分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -51,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时46分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时46分 ~ 18时02分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -116,6 +118,30 @@
           "time_info": "08时44分"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 18时02分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 18时02分]"
+        },
+        {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
           "url": "https://flash.jin10.com/detail/20251212062505540800",
           "source": "金十数据",
@@ -125,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 17时15分]"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -149,17 +164,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时02分 ~ 04时02分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 17时15分]"
         },
         {
           "title": "美国财政部计划增加特朗普时期对企业的税收优惠",
@@ -319,6 +323,18 @@
           "time_info": "[10时46分 ~ 12时24分]"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时02分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -400,17 +416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国特使Witkoff和团队继续与乌克兰和俄罗斯磋商。 乌克兰问题久拖不决让总统特朗普“感到极端受挫”。",
@@ -813,6 +818,17 @@
           "time_info": "08时44分"
         },
         {
+          "title": "特朗普：只有泽连斯基不喜欢和平计划",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AA%E6%9C%89%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美国总统特朗普：（谈委内瑞拉）行动很快就会在陆地上展开。",
           "url": "https://flash.jin10.com/detail/20251212071757771800",
           "source": "金十数据",
@@ -850,8 +866,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 18时02分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1261,7 +1277,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -1273,8 +1289,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时46分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时46分 ~ 18时02分]"
+        },
+        {
+          "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251212174133299800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
@@ -1441,7 +1468,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
