@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T07:13:40.499727+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2025-12-16T08:45:14.406855+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 08时45分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -40,11 +40,12 @@
             10,
             5,
             2,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 08时45分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -60,6 +61,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 05时02分]"
+        },
+        {
+          "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
+          "url": "https://flash.jin10.com/detail/20251216081629510800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "文件显示：美国总统特朗普就“1月6日事件”演讲的剪辑片段起诉英国广播公司诽谤。",
+          "url": "https://flash.jin10.com/detail/20251216081535762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -156,6 +179,17 @@
           "time_info": "[01时16分 ~ 02时17分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 08时45分]"
+        },
+        {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
           "url": "https://flash.jin10.com/detail/20251216025403582800",
           "source": "金十数据",
@@ -187,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "法庭文件显示，特朗普就2024年拼接纪录片一事起诉BBC诽谤，要求BBC赔偿50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3021248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "美国总统特朗普：将开始打击陆地上的毒品走私贩。",
@@ -266,6 +311,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "特朗普起诉BBC诽谤，寻求向BBC索赔至少50亿美元。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3021240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
           "url": "https://flash.jin10.com/detail/20251216004941565800",
           "source": "金十数据",
@@ -316,7 +372,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -360,7 +416,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -437,7 +493,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -459,7 +515,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -500,7 +556,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -526,19 +582,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 08时45分]"
         },
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
           "url": "https://www.cls.cn/detail/2230375",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 08时45分]"
         },
         {
           "title": "科技行业ETF收跌将近1%，领跌美股行业ETF",
@@ -562,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "中信证券：看好美股软件板块中期投资机会",
+          "url": "https://flash.jin10.com/detail/20251216075757698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -614,7 +682,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -628,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
+        },
+        {
+          "title": "中信证券：看好美股软件板块中期投资机会",
+          "url": "https://wallstreetcn.com/livenews/3021225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         }
       ]
     },
@@ -672,6 +751,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 08时45分]"
+        },
+        {
+          "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
+          "url": "https://flash.jin10.com/detail/20251215235510246800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -694,26 +801,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "市场分析：美元和美国国债收益率是本周金价的主要推动因素",
-          "url": "https://flash.jin10.com/detail/20251215235510246800",
-          "source": "金十数据",
+          "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3021245",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "08时45分"
         }
       ]
     },
