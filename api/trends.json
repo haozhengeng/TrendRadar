@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T16:02:41.305733+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-16T17:15:46.047208+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时44分 ~ 16时02分]"
+          "appearance_count": 12,
+          "time_info": "[08时44分 ~ 17时15分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -74,6 +74,21 @@
           "time_info": "[00时14分 ~ 08时45分]"
         },
         {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 17时15分]"
+        },
+        {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://news.ifeng.com/c/8p7htngCHQD",
           "source": "凤凰网",
@@ -85,20 +100,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时46分 ~ 15时15分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 16时02分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -363,7 +364,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -901,7 +902,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -909,7 +910,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -955,6 +956,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 04时02分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -969,7 +981,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
