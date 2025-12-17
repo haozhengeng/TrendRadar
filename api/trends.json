@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T16:15:30.993272+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2025-12-17T17:17:00.975382+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -110,11 +110,24 @@
             2,
             10,
             9,
-            26
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 17时17分]"
+        },
+        {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时47分 ~ 16时15分]"
+          "time_info": "[13时13分 ~ 17时17分]"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了一项公告，进一步限制外国国民入境。对布基纳法索、马里、尼日尔、南苏丹和叙利亚等五个新增国家，以及持巴勒斯坦权力机构签发旅行证件的个人，实施全面入境限制和禁令。对老挝和塞拉利昂这两个此前仅受部分限制的国家，升级为实施全面入境限制和禁令。",
@@ -245,16 +258,17 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            13,
+            11,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时13分 ~ 16时15分]"
+          "time_info": "[14时16分 ~ 17时17分]"
         },
         {
           "title": "评论员：特朗普越来越像拜登",
@@ -290,6 +304,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时30分 ~ 11时47分]"
+        },
+        {
+          "title": "白宫幕僚长尖锐点评特朗普、马斯克等人，却获白宫力挺",
+          "url": "https://news.ifeng.com/c/8p9nCXu9FDv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 17时17分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
@@ -350,18 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 01时15分]"
-        },
-        {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 16时15分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -548,7 +561,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -628,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "日本首相高市早苗：我希望能尽快与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251217164640942800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "白宫幕僚长称特朗普有“酒鬼性格”",
