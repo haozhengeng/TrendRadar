@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T14:16:13.087320+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-12-18T15:14:17.073334+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -34,8 +34,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 14时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时13分 ~ 15时14分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时14分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -49,17 +62,18 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            6,
-            8
+            22,
+            17,
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时41分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 15时14分]"
         },
         {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
@@ -93,20 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时16分]"
         },
         {
           "title": "白宫官员：美国总统特朗普预计将于周四就大麻重新分类问题发表讲话。",
@@ -272,6 +272,17 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
           "title": "美国监管机构发言人：Caroline Pham会继续担任美国商品期货交易委员会（CFTC）代理主席，直至特朗普任命的Mike Selig获得确认。",
           "url": "https://flash.jin10.com/detail/20251218052236880800",
           "source": "金十数据",
@@ -360,7 +371,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -654,8 +665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时02分 ~ 14时16分]"
+          "appearance_count": 11,
+          "time_info": "[06时02分 ~ 15时14分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -840,11 +851,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 15时14分]"
         },
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -856,6 +868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 15时14分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -918,17 +941,6 @@
           "time_info": "[01时14分 ~ 02时02分]"
         },
         {
-          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
-          "url": "https://www.zhihu.com/question/1984788546771517931",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
-        },
-        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
@@ -965,8 +977,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
           "url": "https://flash.jin10.com/detail/20251218063011323800",
@@ -994,11 +1017,12 @@
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 15时14分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
