@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:02:03.007809+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2025-12-26T20:18:24.563214+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时46分 ~ 20时18分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -74,6 +74,17 @@
           "time_info": "[02时14分 ~ 07时02分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时12分 ~ 20时18分]"
+        },
+        {
           "title": "特朗普政府节假日严查阿富汗移民 要求于圣诞节与元旦报到",
           "url": "https://flash.jin10.com/detail/20251226025244857800",
           "source": "金十数据",
@@ -86,17 +97,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 19时02分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -208,7 +208,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -251,8 +251,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时46分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[10时46分 ~ 20时18分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
