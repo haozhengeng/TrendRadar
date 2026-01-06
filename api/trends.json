@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T18:02:34.926018+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-01-06T19:02:31.890025+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -123,8 +123,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 19时02分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -137,11 +137,12 @@
             13,
             23,
             18,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 18时02分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 19时02分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -168,17 +169,6 @@
           "time_info": "[10时51分 ~ 15时17分]"
         },
         {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时02分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -188,8 +178,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 07时02分]"
         },
         {
           "title": "特朗普：美国将深度介入委内瑞拉",
@@ -219,6 +220,21 @@
           "time_info": "[01时13分 ~ 07时02分]"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20,
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普对印度买俄石油发出最后通牒",
           "url": "https://www.toutiao.com/trending/7591650384435888171/",
           "source": "今日头条",
@@ -241,27 +257,13 @@
           "time_info": "11时57分"
         },
         {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            21,
-            20,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 18时02分]"
-        },
-        {
           "title": "特朗普干预主义引发去美元化担忧 杰富瑞看好黄金避险属性",
           "url": "https://flash.jin10.com/detail/20260106174715588800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -410,6 +412,18 @@
           "time_info": "[03时12分 ~ 05时03分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
           "url": "https://flash.jin10.com/detail/20260106032305906800",
           "source": "金十数据",
@@ -467,24 +481,13 @@
           "time_info": "[04时02分 ~ 05时03分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
           "title": "知情人士：特朗普政府计划本周约谈美国石油巨头",
           "url": "https://flash.jin10.com/detail/20260106174326152800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -608,6 +611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "丹麦首相要求特朗普停止对格陵兰岛的“威胁”，称其享有北约的安全保障",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319045",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国参议员马克·凯利：美国国防部长赫格塞思和唐纳德·特朗普无权决定美国民众如何评价他们的政府。",
@@ -767,8 +781,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时02分 ~ 18时02分]"
+          "appearance_count": 15,
+          "time_info": "[07时02分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -935,7 +949,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -945,11 +959,12 @@
             5,
             3,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[14时16分 ~ 19时02分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1066,6 +1081,17 @@
           "time_info": "17时16分"
         },
         {
+          "title": "伊朗称随时准备对侵略或敌对行为作出果断回应",
+          "url": "https://wallstreetcn.com/livenews/3031601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
           "url": "https://flash.jin10.com/detail/20260105232040593800",
           "source": "金十数据",
@@ -1090,11 +1116,12 @@
             13,
             11,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时16分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[15时16分 ~ 19时02分]"
         },
         {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
@@ -1191,8 +1218,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时51分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[10时51分 ~ 19时02分]"
         },
         {
           "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
@@ -1245,8 +1272,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
         {
           "title": "美债收益率走高 分析师称曲线有趋陡的空间",
           "url": "https://flash.jin10.com/detail/20260106144320434800",
