@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T13:15:31.828905+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-01-14T14:17:31.486156+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 100,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -76,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[08时47分 ~ 14时17分]"
         },
         {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
@@ -91,6 +91,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美媒：特朗普曾深夜发短信追问军舰“生锈”问题，美海军抓紧制定解决方案",
+          "url": "https://wallstreetcn.com/livenews/3036708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "特朗普称将切断“庇护城市”的联邦资金",
           "url": "https://flash.jin10.com/detail/20260114043526447800",
           "source": "金十数据",
@@ -100,6 +111,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普将率“最大美国代表团”出席达沃斯论坛",
+          "url": "https://wallstreetcn.com/livenews/3036705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 14时17分]"
         },
         {
           "title": "美国总统特朗普：我们会让油价进一步下降。",
@@ -160,17 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普：美国人现在撤离伊朗是个好主意。",
@@ -317,6 +339,31 @@
           "time_info": "[12时05分 ~ 13时15分]"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时05分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时05分 ~ 14时17分]"
+        },
+        {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
           "url": "https://flash.jin10.com/detail/20260114032319867800",
           "source": "金十数据",
@@ -413,18 +460,6 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时15分]"
-        },
-        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -461,18 +496,6 @@
           "time_info": "[00时17分 ~ 01时17分]"
         },
         {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时15分]"
-        },
-        {
           "title": "特朗普“信用卡利率上限”方案持续发酵，支付公司Visa跌幅扩大至5.5%，创6月18日以来最大盘中跌幅。 MasterCard跌5.8%。",
           "url": "https://wallstreetcn.com/livenews/3036291",
           "source": "华尔街见闻-快讯",
@@ -507,6 +530,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时17分]"
         },
         {
           "title": "美国总统特朗普：（谈及美国在伊朗的盟友）他们应该撤出。",
@@ -554,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "特朗普参观汽车工厂遭工人辱骂",
+          "url": "https://www.douyin.com/hot/2367043",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "特朗普建议美国盟友撤离伊朗",
@@ -697,17 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         },
         {
           "title": "美国总统特朗普称赞核心通胀率（下降）和GDP增长。",
@@ -1120,7 +1154,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1145,6 +1179,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时17分 ~ 07时02分]"
+        },
+        {
+          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
+          "url": "https://news.ifeng.com/c/8psTbSveNse",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时47分 ~ 14时17分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -1178,17 +1224,6 @@
           "time_info": "[00时17分 ~ 07时02分]"
         },
         {
-          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
-          "url": "https://news.ifeng.com/c/8psTbSveNse",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时15分]"
-        },
-        {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
           "url": "https://www.toutiao.com/trending/7594742775778643502/",
           "source": "今日头条",
@@ -1204,17 +1239,6 @@
           "time_info": "[01时16分 ~ 05时02分]"
         },
         {
-          "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
-          "url": "https://flash.jin10.com/detail/20260114130612270800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
           "url": "https://www.zhihu.com/question/1994353599640270638",
           "source": "知乎",
@@ -1222,8 +1246,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 13时15分]"
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 14时17分]"
+        },
+        {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 14时17分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时57分 ~ 14时17分]"
         },
         {
           "title": "俄外交部：美国威胁对伊朗发动军事打击“绝不可接受”",
@@ -1251,16 +1301,16 @@
           "time_info": "[02时17分 ~ 03时12分]"
         },
         {
-          "title": "中方回应“是否建议公民去伊朗”",
-          "url": "https://www.douyin.com/hot/2366959",
-          "source": "抖音",
+          "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
+          "url": "https://flash.jin10.com/detail/20260114130612270800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 13时15分]"
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时17分]"
         },
         {
           "title": "市场消息：马斯克在伊朗互联网中断期间提供免费星链服务。",
@@ -1273,18 +1323,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
-        },
-        {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 13时15分]"
         },
         {
           "title": "伊朗国防部长：将对任何美国侵略行为作出回应。",
@@ -1309,6 +1347,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时02分]"
+        },
+        {
+          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时17分]"
         },
         {
           "title": "美政府再发安全警告 敦促美国公民立即离开伊朗",
@@ -1342,6 +1391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        },
+        {
+          "title": "伊朗外长与阿联酋外长通话 强调加强地区稳定",
+          "url": "https://wallstreetcn.com/livenews/3036694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "据NewsNation：知情人士证实，美国副总统万斯定于今天下午（北京时间今晨）与国家安全团队举行会议，主导制定对伊朗的战略。",
@@ -1421,17 +1481,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
-        },
-        {
           "title": "美国国务院：美国公民应立即离开伊朗，如安全可行，可考虑经陆路前往土耳其或亚美尼亚。",
           "url": "https://flash.jin10.com/detail/20260114055223204800",
           "source": "金十数据",
@@ -1441,6 +1490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "白宫：空袭只是对付伊朗的选项之一",
+          "url": "https://www.toutiao.com/trending/7594215539677888548/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
@@ -1471,6 +1531,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 14时17分]"
+        },
+        {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -1485,19 +1558,6 @@
           "time_info": "[00时17分 ~ 06时02分]"
         },
         {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 13时15分]"
-        },
-        {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -1505,8 +1565,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时47分 ~ 13时15分]"
+          "appearance_count": 6,
+          "time_info": "[08时47分 ~ 14时17分]"
         },
         {
           "title": "美国总统特朗普称赞美股走高。",
@@ -1614,7 +1674,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -1650,8 +1710,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 13时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时17分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1676,12 +1736,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时02分]"
+        },
+        {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "花旗预测三个月内金价达5000美元",
@@ -1712,6 +1783,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时02分]"
+        },
+        {
+          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3036683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
@@ -1812,8 +1894,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 13时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114133123697800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     },
