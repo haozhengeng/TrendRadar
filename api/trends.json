@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T06:02:44.469808+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-01-28T07:02:18.405474+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时02分]"
         },
         {
           "title": "土耳其总统办公室：埃尔多安与美国总统特朗普通了电话，强调必须在叙利亚全面落实停火和整合协议。",
@@ -30,15 +30,15 @@
           "time_info": "05时03分"
         },
         {
-          "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
-          "url": "https://flash.jin10.com/detail/20260128053943397800",
+          "title": "欧元4年多来首次升破1.2 分析师：特朗普讲话触发大规模止损",
+          "url": "https://flash.jin10.com/detail/20260128062845628800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
@@ -58,9 +58,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3045027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "市场消息：美国总统特朗普叫停的玛莎葡萄园岛（Martha' s Vineyard）风力发电项目被法官重启。",
@@ -80,9 +91,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
+          "url": "https://wallstreetcn.com/livenews/3045026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -133,6 +155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时20分]"
+        },
+        {
+          "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260128053943397800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
@@ -197,6 +231,18 @@
           "time_info": "[05时03分 ~ 06时02分]"
         },
         {
+          "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
+          "url": "https://wallstreetcn.com/livenews/3045001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
           "url": "https://flash.jin10.com/detail/20260128024954908800",
           "source": "金十数据",
@@ -239,9 +285,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：许多人向我问及乙醇。",
+          "url": "https://wallstreetcn.com/livenews/3045025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：农民将是关税的最大受益者。",
@@ -250,18 +307,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
-          "url": "https://wallstreetcn.com/livenews/3045001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -283,7 +329,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -294,7 +340,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -316,7 +362,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -327,7 +373,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -338,7 +384,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -415,7 +461,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -437,7 +483,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -470,7 +516,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -481,7 +527,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -489,7 +535,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -500,8 +546,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时02分]"
         },
         {
           "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
@@ -510,11 +556,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时02分]"
         },
         {
           "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
@@ -524,8 +571,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时02分]"
         },
         {
           "title": "以女子看电视发现自己“死”在伊朗",
@@ -538,8 +585,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 06时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 07时02分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统与沙特王储通话。",
@@ -551,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "伊朗官员称已对霍尔木兹海峡进行实时监控",
+          "url": "https://flash.jin10.com/detail/20260128060624787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "伊朗总统与沙特王储通电话。（伊朗媒体IRNA）",
@@ -640,7 +698,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -656,6 +714,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "伊朗官员称已对霍尔木兹海峡进行实时监控",
+          "url": "https://wallstreetcn.com/livenews/3045011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "伊朗媒体称，伊朗总统在与沙特王储的电话通话中表示，德黑兰一直且仍然欢迎任何旨在防止战争的进程。",
           "url": "https://flash.jin10.com/detail/20260128002744331800",
           "source": "金十数据",
@@ -665,12 +734,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "沙特不许其领空领土被用于打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260128054619413800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -695,17 +775,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
-          "url": "https://wallstreetcn.com/livenews/3045005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
           "title": "美股费城半导体指数涨2.5%。",
           "url": "https://flash.jin10.com/detail/20260127235011567800",
           "source": "金十数据",
@@ -715,6 +784,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨1.00%，报440.62点，早盘显著下挫，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.98%，报3099.58点，美股时段呈现出V形反转。 （美股）原材料指数收涨0.39%，（美股）金属与矿业指数收涨2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3045005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3045000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
@@ -729,24 +822,13 @@
           "time_info": "[02时20分 ~ 03时19分]"
         },
         {
-          "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3045000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
           "url": "https://wallstreetcn.com/livenews/3044996",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -757,7 +839,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -768,9 +850,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3045008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -779,7 +872,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -790,7 +883,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -801,7 +894,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -884,7 +977,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -1014,17 +1107,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时02分]"
-        },
-        {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
@@ -1033,8 +1115,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时02分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -1045,8 +1127,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时02分]"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 07时02分]"
         }
       ]
     },
@@ -1054,6 +1148,20 @@
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时20分 ~ 07时02分]"
+        },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
@@ -1067,28 +1175,16 @@
           "time_info": "[00时16分 ~ 06时02分]"
         },
         {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时20分 ~ 06时02分]"
-        },
-        {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
           "url": "https://wallstreetcn.com/livenews/3045007",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         }
       ]
     },
