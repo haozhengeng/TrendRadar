@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T22:06:05.187548+08:00",
-  "total_titles_processed": 1766,
+  "generated_at": "2026-02-09T23:42:40.837330+08:00",
+  "total_titles_processed": 1902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -35,8 +35,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 22时06分]"
+          "appearance_count": 12,
+          "time_info": "[13时22分 ~ 23时42分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -120,7 +120,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -306,12 +306,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "据Punchbowl：特朗普将在美国众议院共和党全国委员会（NRCC）的年度三月筹款活动上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260209225427013800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗外长：伊美核谈判开局良好",
@@ -336,7 +347,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -393,9 +404,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "美国海事局告知本国船只远离伊朗水域",
+          "url": "https://flash.jin10.com/detail/20260209231822175800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "外媒：伊朗外长称，伊朗已向中俄通报伊美谈判有关情况",
@@ -420,13 +442,24 @@
           "time_info": "20时37分"
         },
         {
+          "title": "WTI原油日内涨幅达1.0%，报64.21美元/桶。 墨西哥总统辛鲍姆称，墨方当前暂停对委内瑞拉供应石油。 美国海事局针对霍尔木兹海峡航运发布建议，宣称美国船舶应尽可能远离伊朗水域。",
+          "url": "https://wallstreetcn.com/livenews/3052409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "伊朗媒体发AI视频模拟打击美军舰队",
           "url": "https://wallstreetcn.com/livenews/3052357",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -484,12 +517,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "美国海事局：美国船舶应尽可能远离伊朗水域。（据彭博社后续补充报道，美国海事局发布的关于霍尔木兹海峡航行警告是针对2月3日发生的一起事件，当时一艘悬挂美国旗帜的油轮在该海峡遭遇伊朗炮艇逼近。）",
+          "url": "https://flash.jin10.com/detail/20260209224746049800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -526,8 +570,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时06分]"
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时42分]"
         },
         {
           "title": "周一美股盘前你需要了解的全球要闻",
@@ -536,7 +580,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -595,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
+        },
+        {
+          "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3052393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
@@ -645,7 +700,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -667,7 +722,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -707,7 +762,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -718,7 +773,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -740,7 +795,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -751,7 +806,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -762,7 +817,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         }
@@ -841,58 +896,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI准备在本周推出更新版聊天模型",
-          "url": "https://wallstreetcn.com/livenews/3052361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "OpenAI创始人：ChatGPT月增长重超10% 本周将推新版聊天模型",
-          "url": "https://flash.jin10.com/detail/20260209211725388800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "据CNBC：ChatGPT月增长率超过10%。",
-          "url": "https://flash.jin10.com/detail/20260209210816509800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "据CNBC：OpenAI计划于本周发布一款升级版对话模型。",
-          "url": "https://flash.jin10.com/detail/20260209210728140800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -904,6 +909,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时05分 ~ 22时06分]"
+        },
+        {
+          "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
@@ -935,7 +951,57 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI准备在本周推出更新版聊天模型",
+          "url": "https://wallstreetcn.com/livenews/3052361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "OpenAI创始人：ChatGPT月增长重超10% 本周将推新版聊天模型",
+          "url": "https://flash.jin10.com/detail/20260209211725388800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "据CNBC：ChatGPT月增长率超过10%。",
+          "url": "https://flash.jin10.com/detail/20260209210816509800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时06分"
+        },
+        {
+          "title": "据CNBC：OpenAI计划于本周发布一款升级版对话模型。",
+          "url": "https://flash.jin10.com/detail/20260209210728140800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         }
